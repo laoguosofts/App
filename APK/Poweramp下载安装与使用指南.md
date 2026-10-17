@@ -104,3 +104,7 @@ Poweramp 按照「文件内嵌 → 同目录文件 → 网络下载」的优先�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
+
+## 📚 相关文章
+
+- [Poweramp 用了两年：从 DSD 播放器到每天离不开的音乐管家](https://laoguosofts.github.io/posts/poweramp.html)

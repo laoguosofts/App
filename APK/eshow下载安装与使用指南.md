@@ -90,3 +90,7 @@ AWIND 奇机 A 系列接收端的官方文档里公开的无线传输规格在�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/eshow)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/eshow)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/eshow)
+
+## 📚 相关文章
+
+- [ESHOW 装了半年多——从"又要装 App"到会议室离不开的投屏工具](https://laoguosofts.github.io/posts/eshow-docs.html)

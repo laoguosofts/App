@@ -126,3 +126,7 @@ VoiceTra 定位在日常对话翻译，有些场景它帮不上太多：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/VoiceTra)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/VoiceTra)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/VoiceTra)
+
+## 📚 相关文章
+
+- [带 VoiceTra 去东京：一个日语零分的人用它撑了 7 天](https://laoguosofts.github.io/posts/voicetra.html)

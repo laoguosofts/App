@@ -74,3 +74,7 @@ Premium 解锁的方向集中在**更多内容**和**更强外观**：移除广�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Motivation)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Motivation)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Motivation)
+
+## 📚 相关文章
+
+- [Motivation 快问快答：一款能在手表上推语录的 App](https://laoguosofts.github.io/posts/motivation-docs.html)

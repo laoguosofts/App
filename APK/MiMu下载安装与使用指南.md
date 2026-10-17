@@ -123,3 +123,7 @@ MiMu 同时支持 iOS 和 Android 两个平台，安装流程因系统而异。
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mimu)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mimu)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mimu)
+
+## 📚 相关文章
+
+- [MiMu 进化史：一张单词卡怎么长出了五条悟和小岛养成](https://laoguosofts.github.io/posts/mimu-docs.html)

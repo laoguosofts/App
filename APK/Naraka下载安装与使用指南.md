@@ -120,3 +120,7 @@ Naraka 与大多数同类工具最明显的区别在于它不展示具体的服�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Naraka)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Naraka)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Naraka)
+
+## 📚 相关文章
+
+- [Naraka 到底值不值得掏钱？一笔算得清的加速账本](https://laoguosofts.github.io/posts/naraka-docs.html)
