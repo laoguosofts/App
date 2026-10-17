@@ -2,7 +2,7 @@
 
 Poweramp 是一款专为 Android 设备打造的本地音乐播放器，自 2010 年上线以来一直被发烧友视为 Android 平台音质天花板。它不做流媒体聚合，专注于把你手机里已经存好的本地音乐文件播到最好——支持几乎所有音频格式，内置专业级 EQ 均衡器、DVC 直控音量、Float32 高解析采样，以及对几万首大曲库的稳定支持。
 
-它适合哪些人用？如果你有一个本地音乐曲库（FLAC / WAV / APE / DSD 之类的无损资源）、有一副或几副需要调音的耳机、或者折腾 USB DAC 外接解码，Poweramp 基本是绕不开的选择。普通用户如果只是偶尔听听 MP3，可能感受不到它的优势——但对音质有追求的人来说，它的 DSP 处理能力和音量控制精度是免费播放器无法比拟的，想确认自己的设备支持哪些特性，可以去[Poweramp官网](https://poweramp.bmww.store)查一下完整的支持列表。
+它适合哪些人用？如果你有一个本地音乐曲库（FLAC / WAV / APE / DSD 之类的无损资源）、有一副或几副需要调音的耳机、或者折腾 USB DAC 外接解码，Poweramp 基本是绕不开的选择。普通用户如果只是偶尔听听 MP3，可能感受不到它的优势——但对音质有追求的人来说，它的 DSP 处理能力和音量控制精度是免费播放器无法比拟的，想确认自己的设备支持哪些特性，可以去 Poweramp 官网查一下完整的支持列表。
 
 ---
 
@@ -79,7 +79,7 @@ DVC（Direct Volume Control）是 Poweramp 最独特的技术特性之一。普�
 - **单个预设：** EQ 界面 → 右上角预设菜单 → 选中一个预设 → 「导出」
 - **批量导出全部：** 设置 → 音频 → 预设 → 「批量导出」
 
-建议把导出的 `.equalizer` 文件存到云端同步目录（OneDrive、Dropbox、坚果云都可以），换机时直接从云端导入，Player 和 Equalizer 两个 App 共享同一套预设目录，在 Player 里调好的预设在 Equalizer 里直接能用，不需要重调。关于预设文件格式的更多细节，可以参考[Poweramp文档](https://poweramp.pages.dev/)里的预设导出专题。
+建议把导出的 `.equalizer` 文件存到云端同步目录（OneDrive、Dropbox、坚果云都可以），换机时直接从云端导入，Player 和 Equalizer 两个 App 共享同一套预设目录，在 Player 里调好的预设在 Equalizer 里直接能用，不需要重调。关于预设文件格式的更多细节，可以参考 Poweramp 官方文档里的预设导出专题。
 
 ### 专辑封面管理
 
@@ -98,6 +98,7 @@ Poweramp 按照「文件内嵌 → 同目录文件 → 网络下载」的优先�
 ## 🔗 相关资源
 
 - [Poweramp官网](https://poweramp.bmww.store)
+- [Poweramp文档](https://poweramp.pages.dev/)
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Poweramp)
