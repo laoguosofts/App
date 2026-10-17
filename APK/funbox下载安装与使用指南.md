@@ -109,3 +109,7 @@ FunBox 不是普通 App，装完之后还需要在 LSPosed（或 EdXposed）管�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/funbox)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/funbox)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/funbox)
+
+## 📚 相关文章
+
+- [FunBox 全能力盘点：一个模块能把聊天表情和语音玩出多少花样](https://laoguosofts.github.io/posts/funbox-docs.html)

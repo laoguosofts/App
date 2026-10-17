@@ -110,3 +110,7 @@ Z-Lib 是 **Z-Library 的官方安卓客户端**。Z-Library 是一个 2009 年�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/zlib)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/zlib)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/zlib)
+
+## 📚 相关文章
+
+- [免费电子书库里它排第几——用了一年 zlib 的真实感受](https://laoguosofts.github.io/posts/zlib-docs.html)

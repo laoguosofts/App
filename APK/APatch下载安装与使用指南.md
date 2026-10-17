@@ -140,3 +140,7 @@ APM 全称 AndroidPatch Module，是 APatch 的模块系统——工作机制和
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/APatch)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/APatch)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/APatch)
+
+## 📚 相关文章
+
+- [APatch 值不值得我花这三小时折腾 Root？一笔时间账](https://laoguosofts.github.io/posts/apatch-docs.html)

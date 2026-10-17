@@ -139,3 +139,7 @@ iVCam 的录像直接落盘手机传来的数据（不重编码），由此带�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/ivcam)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/ivcam)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/ivcam)
+
+## 📚 相关文章
+
+- [iVCam 到底值不值得掏钱？把免费版和付费版的账算明白](https://laoguosofts.github.io/posts/ivcam-docs.html)

@@ -84,3 +84,7 @@ PC 端启动器安装如果卡在下载或启动环节，先看 Windows 版本�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/DMMGAMES)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/DMMGAMES)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/DMMGAMES)
+
+## 📚 相关文章
+
+- [DMMGAMES 从零上手：注册、安装、下载游戏一把梭](https://laoguosofts.github.io/posts/dmmgames.html)

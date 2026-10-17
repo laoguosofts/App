@@ -107,3 +107,7 @@ BIGC 的功能模块较多，但新用户上手时不需要一次性全部掌握
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/BIGC)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/BIGC)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/BIGC)
+
+## 📚 相关文章
+
+- [BIGC 从 0 到 1：打歌投票、独家花絮、演出购票一次搞懂](https://laoguosofts.github.io/posts/bigc-docs.html)

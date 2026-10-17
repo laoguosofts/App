@@ -123,3 +123,7 @@ AppShare 的审核和管理岗位全部来自活跃用户。入门路径是：�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/AppShare)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/AppShare)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/AppShare)
+
+## 📚 相关文章
+
+- [AppShare 里藏着你不知道的五个黑科技](https://laoguosofts.github.io/posts/appshare-docs.html)

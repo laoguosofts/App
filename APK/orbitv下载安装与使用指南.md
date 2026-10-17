@@ -134,3 +134,7 @@ orbitv 的 Personal 区域允许你导入自定义的 M3U、M3U8、MPD、MP4 格
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/orbitv)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/orbitv)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/orbitv)
+
+## 📚 相关文章
+
+- [把全球直播嵌进每周工作流：一个 orbitv 重度用户的拼链笔记](https://laoguosofts.github.io/posts/orbitv-docs.html)

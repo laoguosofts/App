@@ -97,3 +97,6 @@ AiU 的四大板块不是并列的菜单项，而是同一段「人机关系」�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/AiU)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/AiU)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/AiU)
+## 📚 相关文章
+
+- [AiU 到底值不值得用？从心理大模型底座聊到捏人系统的实体验](https://laoguosofts.github.io/posts/aiu-docs.html)

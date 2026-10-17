@@ -172,3 +172,7 @@ Infinite Painter 对主动式电容手写笔做了深度适配：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/Painter)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/Painter)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/Painter)
+
+## 📚 相关文章
+
+- [用 Painter 搭一套移动端到桌面的插画流水线](https://laoguosofts.github.io/posts/painter-docs.html)

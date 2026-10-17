@@ -119,3 +119,7 @@ HSL 把颜色拆成三个可调维度，每个维度下分红、橙、黄、绿�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/Mixkit)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/Mixkit)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/Mixkit)
+
+## 📚 相关文章
+
+- [Mixkit 看着简单，其实有四个坑我踩过了](https://laoguosofts.github.io/posts/mixkit-docs.html)

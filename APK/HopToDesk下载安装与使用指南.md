@@ -112,3 +112,7 @@ HopToDesk 的面板账号安全是一套组合拳，从个人级的两步验证�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/HopToDesk)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/HopToDesk)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/HopToDesk)
+
+## 📚 相关文章
+
+- [HopToDesk 装了大半年，那些当初没在意的细节才是长期用下来的关键](https://laoguosofts.github.io/posts/hoptodesk-docs.html)

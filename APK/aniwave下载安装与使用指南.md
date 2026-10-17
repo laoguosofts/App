@@ -94,3 +94,7 @@ aniwave 是一款面向安卓设备的动漫影音播放应用，内容库以番
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/aniwave)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/aniwave)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/aniwave)
+
+## 📚 相关文章
+
+- [aniwave 到底是个什么来头？一篇快问快答讲清楚](https://laoguosofts.github.io/posts/aniwave-docs.html)

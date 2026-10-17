@@ -107,3 +107,7 @@ We Learn 支持移动端 APP 和电脑网页端两种使用方式，安装路径
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/we%20learn)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/we%20learn)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/we%20learn)
+
+## 📚 相关文章
+
+- [WE Learn 随行课堂快问快答：从激活到录音，八件事说清](https://laoguosofts.github.io/posts/we-learn.html)

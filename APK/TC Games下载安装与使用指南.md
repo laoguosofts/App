@@ -115,3 +115,7 @@ HDMI 转接线连接时要注意转接器发热——长时间运行可能过热
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/APP/TC%20Games)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/APP/TC%20Games)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/APP/TC%20Games)
+
+## 📚 相关文章
+
+- [TC Games 新手入门：把手机搬上电脑，零基础五分钟上手](https://laoguosofts.github.io/posts/tc-games.html)

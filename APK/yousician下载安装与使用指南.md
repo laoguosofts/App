@@ -115,3 +115,7 @@ MIDI 方案下 Yousician 拿到的是确切的按键数据（哪个琴键、按�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/yousician)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/yousician)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/yousician)
+
+## 📚 相关文章
+
+- [你以为Yousician只是个练琴App？藏着的这些功能我用了半年才摸透](https://laoguosofts.github.io/posts/yousician.html)

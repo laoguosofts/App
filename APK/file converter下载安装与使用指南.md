@@ -208,3 +208,7 @@ File Converter 的输入方式远不止「选本地文件」这一种。点「+�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/file%20converter)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/file%20converter)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/file%20converter)
+
+## 📚 相关文章
+
+- [用了这么久 File Converter，这五个隐藏功能我猜你没碰过](https://laoguosofts.github.io/posts/file-converter-docs.html)

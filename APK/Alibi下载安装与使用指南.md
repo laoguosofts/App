@@ -108,3 +108,7 @@ Alibi 目前仅支持 Android 平台，安装过程和大多数 APK 应用类似
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Alibi)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Alibi)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Alibi)
+
+## 📚 相关文章
+
+- [Alibi 到底算不算手机端的行车记录仪](https://laoguosofts.github.io/posts/alibi-docs.html)

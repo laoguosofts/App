@@ -116,3 +116,7 @@ Explore 是"看"——可以提前预览其他城市的网格，预习落地后�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Grindr)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Grindr)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Grindr)
+
+## 📚 相关文章
+
+- [Grindr 1500 万月活背后，距离排序这套算法到底藏了多少门道](https://laoguosofts.github.io/posts/grindr-docs.html)

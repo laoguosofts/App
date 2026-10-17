@@ -118,3 +118,7 @@ iOS 版的核心限制是**做不了全系统音频捕获**——不是 AudioRel
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/audiorelay)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/audiorelay)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/audiorelay)
+
+## 📚 相关文章
+
+- [AudioRelay 这三年：从一根 USB 线到系统音频抓取](https://laoguosofts.github.io/posts/audiorelay.html)

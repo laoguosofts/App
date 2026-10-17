@@ -118,3 +118,7 @@ GameSir（盖世小鸡）是一款面向手游玩家的物理手柄解决方案�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/GameSir)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/GameSir)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/GameSir)
+
+## 📚 相关文章
+
+- [我用了一个晚上才把手柄连上手机——GameSir 新手踩坑实录](https://laoguosofts.github.io/posts/gamesir-docs.html)

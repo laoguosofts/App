@@ -105,3 +105,7 @@ data 目录是整套系统的全部家当——核心配置、数据库、对话
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/astrbot)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/astrbot)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/astrbot)
+
+## 📚 相关文章
+
+- [从零到一：用 AstrBot 在 QQ 群里挂一个自己的 AI 助手](https://laoguosofts.github.io/posts/astrbot-zh-docs.html)

@@ -112,3 +112,7 @@ Drastic + Citra 是手机玩任天堂掌机游戏的标准组合：Drastic 玩 N
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/drastic)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/drastic)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/drastic)
+
+## 📚 相关文章
+
+- [Drastic 快问快答——Android 上玩 NDS 必装模拟器](https://laoguosofts.github.io/posts/drastic.html)

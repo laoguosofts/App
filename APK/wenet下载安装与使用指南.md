@@ -141,3 +141,7 @@ WiFi 在高峰期容易拥挤、带宽也有限，下载大文件、看 4K 视�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/wenet)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/wenet)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/wenet)
+
+## 📚 相关文章
+
+- [WeNet 这几年从"能连就行"到"把宿舍网折腾明白"的迭代之路](https://laoguosofts.github.io/posts/wenet-docs.html)

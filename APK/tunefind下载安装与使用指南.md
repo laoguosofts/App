@@ -113,3 +113,7 @@ Tunefind 的热度算法综合考虑歌曲在热门影视里的出现频率、�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/tunefind)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/tunefind)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/tunefind)
+
+## 📚 相关文章
+
+- [深夜刷剧被一段 BGM 戳中，我是怎么在三分钟内揪出它的](https://laoguosofts.github.io/posts/tunefind.html)

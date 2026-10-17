@@ -115,3 +115,7 @@ Android 在存储紧张时会限制应用内存分配，漫画图片分辨率高
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MANWA3)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MANWA3)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MANWA3)
+
+## 📚 相关文章
+
+- [期末周的漫画逃生舱：漫蛙3陪我熬过那三周](https://laoguosofts.github.io/posts/manwa3-docs.html)

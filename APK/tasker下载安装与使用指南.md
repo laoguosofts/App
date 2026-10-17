@@ -199,3 +199,7 @@ Tasker 自带几个实用的诊断功能，出问题时先查它们：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Tasker)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Tasker)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Tasker)
+
+## 📚 相关文章
+
+- [Tasker 上手记：用了三天，我把手机里一半的重复操作都删了](https://laoguosofts.github.io/posts/tasker-docs.html)

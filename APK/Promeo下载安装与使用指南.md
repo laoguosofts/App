@@ -150,3 +150,7 @@ Promeo 把视频工作流分成三层，用户可以在任意一层停下来导�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/Promeo)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/Promeo)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/Promeo)
+
+## 📚 相关文章
+
+- [大促前夜改海报改到崩溃，朋友甩来一个 AI 工具十分钟救了场](https://laoguosofts.github.io/posts/promeo.html)

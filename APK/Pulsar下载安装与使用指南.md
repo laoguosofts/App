@@ -106,3 +106,7 @@ Sound balance（声道平衡）是免费版就能用的声音调整，入口在�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Pulsar)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Pulsar)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Pulsar)
+
+## 📚 相关文章
+
+- [Pulsar 付费账本：轻度主力重度三档各花多少钱](https://laoguosofts.github.io/posts/pulsar-zh-docs.html)

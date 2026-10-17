@@ -164,3 +164,7 @@ UL Benchmarks 官方建议：对于编辑照片、视频或其他数字内容，
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/PCMark)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/PCMark)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/PCMark)
+
+## 📚 相关文章
+
+- [PCMark 10 到底值不值得掏钱？三个版本一笔账算清楚](https://laoguosofts.github.io/posts/pcmark.html)

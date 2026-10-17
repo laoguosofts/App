@@ -89,3 +89,7 @@ Duck.ai 是内嵌在搜索与浏览器里的可选 AI 聊天入口，定位与�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/duckduckgo.com)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/duckduckgo.com)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/duckduckgo.com)
+
+## 📚 相关文章
+
+- [DuckDuckGo 到底值不值得从 Google 换过来？一个老用户的对比评测](https://laoguosofts.github.io/posts/duckduckgo-com.html)

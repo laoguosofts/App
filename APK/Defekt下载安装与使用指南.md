@@ -124,3 +124,7 @@ Defekt 的特效更新分两类：原生特效由 DeepCraft 团队自己设计�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Defekt)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Defekt)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Defekt)
+
+## 📚 相关文章
+
+- [Defekt 深度盘点——手机上的参数化特效创作工具到底有多能打](https://laoguosofts.github.io/posts/defekt.html)

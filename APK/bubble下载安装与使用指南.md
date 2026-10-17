@@ -100,3 +100,7 @@ bubble 的应用服务器在海外，注册、登录、收消息都需要能正�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/bubble)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/bubble)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/bubble)
+
+## 📚 相关文章
+
+- [bubble 藏着多少你没开的开关？把这几个冷门入口翻出来](https://laoguosofts.github.io/posts/bubble-docs.html)

@@ -143,3 +143,7 @@ PNG 序列是原始素材，归档时不要只留最终 MP4——如果以后需
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/mikumikudance)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/mikumikudance)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/mikumikudance)
+
+## 📚 相关文章
+
+- [MikuMikuDance 入门指南——从零跳到让初音动起来只需要五分钟](https://laoguosofts.github.io/posts/mikumikudance.html)

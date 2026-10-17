@@ -137,3 +137,7 @@ Scenario Profiles 是 Armoury Crate 里最「智能」的功能。你可以设�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/armoury%20crate)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/armoury%20crate)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/armoury%20crate)
+
+## 📚 相关文章
+
+- [装 Armoury Crate 踩过的那些坑——从"装不上"到"能省心用"](https://laoguosofts.github.io/posts/armoury-crate-docs.html)

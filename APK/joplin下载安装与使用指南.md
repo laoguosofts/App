@@ -140,3 +140,7 @@ Joplin 的全文搜索本身够用，但真正能把搜索从「翻找」升级�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/joplin)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/joplin)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/joplin)
+
+## 📚 相关文章
+
+- [用了 Joplin 一周：终于敢把所有笔记托付给一个软件了](https://laoguosofts.github.io/posts/joplin-docs.html)

@@ -123,3 +123,7 @@ ReelShort 的社区互动不止于评分标签，它还提供了三种进阶形�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/reelshort)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/reelshort)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/reelshort)
+
+## 📚 相关文章
+
+- [ReelShort 两年半：从互动小说基因到竖屏短剧头部](https://laoguosofts.github.io/posts/reelshort-docs.html)

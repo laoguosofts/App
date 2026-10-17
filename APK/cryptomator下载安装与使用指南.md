@@ -162,3 +162,7 @@ Cryptomator 的隐私定位是"默认不采集"——连注册账号都不需要
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/cryptomator)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/cryptomator)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/cryptomator)
+
+## 📚 相关文章
+
+- [Cryptomator 用了半年我踩过的那些坑——从备份翻车到 RAM 丢数据](https://laoguosofts.github.io/posts/cryptomator-docs.html)

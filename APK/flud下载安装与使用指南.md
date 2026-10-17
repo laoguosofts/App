@@ -137,3 +137,7 @@ RSS 自动下载是 Flud 最省心的高级功能之一——给它一个 RSS �
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/flud)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/flud)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/flud)
+
+## 📚 相关文章
+
+- [用了半年 Flud 才发现：这 5 个隐藏功能让手机 BT 下载彻底翻身](https://laoguosofts.github.io/posts/flud.html)

@@ -159,3 +159,7 @@ Ampere 免费版已经覆盖了实时读数、主题切换、基础统计等核�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Ampere)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Ampere)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Ampere)
+
+## 📚 相关文章
+
+- [Ampere 新手入门：看懂手机充电那点事，一个 App 就够了](https://laoguosofts.github.io/posts/ampere-docs.html)

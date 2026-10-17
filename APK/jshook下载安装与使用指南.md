@@ -106,3 +106,7 @@ Copilot 能帮你自动查找类和方法、生成完整可运行的脚本（包
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/jshook)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/jshook)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/jshook)
+
+## 📚 相关文章
+
+- [从普通用户到离不开内核驱动——jshook 用了大半年的真实感受](https://laoguosofts.github.io/posts/jshook.html)

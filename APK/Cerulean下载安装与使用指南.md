@@ -119,3 +119,7 @@ Cerulean 内置了几十种小工具，上面只挑了最常用的几个。其�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Cerulean)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Cerulean)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Cerulean)
+
+## 📚 相关文章
+
+- [Cerulean 避坑指南：这几个翻车位我替你踩过了](https://laoguosofts.github.io/posts/cerulean-docs.html)

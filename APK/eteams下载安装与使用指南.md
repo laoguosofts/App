@@ -108,3 +108,7 @@ eteams 的移动出勤功能是远程和混合办公团队的核心依赖。地�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/eteams)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/eteams)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/eteams)
+
+## 📚 相关文章
+
+- [eteams 深度解析：一家传统 OA 厂商如何把协作平台拆成 200 个微服务](https://laoguosofts.github.io/posts/eteams-docs.html)

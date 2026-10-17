@@ -136,3 +136,7 @@ Sam Helper 集成了 Good Lock 的快速管理入口，可以一键启用或禁�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/sam%20helper)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/sam%20helper)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/sam%20helper)
+
+## 📚 相关文章
+
+- [我看着 Sam Helper 一路迭代：一个三星系统增强工具的进化史](https://laoguosofts.github.io/posts/sam-helper-docs.html)

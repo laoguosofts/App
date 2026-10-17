@@ -112,3 +112,7 @@ MChat 有五种典型使用场景。跨设备高频用户用手机收提醒、�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mchat)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mchat)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/mchat)
+
+## 📚 相关文章
+
+- [MChat 从装到用全流程：三端同步加隐私保护的清爽聊天指南](https://laoguosofts.github.io/posts/mchat-docs.html)

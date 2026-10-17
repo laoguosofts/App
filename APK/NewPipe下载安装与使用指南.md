@@ -124,3 +124,7 @@ NewPipe 存储在设备上的数据包括订阅频道列表、Feed 分组配置�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/NewPipe)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/NewPipe)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/NewPipe)
+
+## 📚 相关文章
+
+- [NewPipe 深度盘点：一个不想当"YouTube替代品"的流媒体全能选手](https://laoguosofts.github.io/posts/newpipe-docs.html)

@@ -129,3 +129,7 @@ EX 卡不是常驻卡，它在你凑齐三张同色 Chain 后出现——不消�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/fgowiki)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/fgowiki)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/fgowiki)
+
+## 📚 相关文章
+
+- [FGO 玩家的周常+活动全流程，一个工具串完](https://laoguosofts.github.io/posts/fgowiki.html)

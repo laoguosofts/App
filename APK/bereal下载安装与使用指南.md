@@ -125,3 +125,7 @@ BeReal 允许超时发布但标记时间，体现了它一贯的反焦虑哲学�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/bereal)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/bereal)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/bereal)
+
+## 📚 相关文章
+
+- [BeReal 到底是怎么把「反社交网络」这件事做成的](https://laoguosofts.github.io/posts/bereal-docs.html)

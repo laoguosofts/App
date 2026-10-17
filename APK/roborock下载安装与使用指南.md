@@ -83,3 +83,7 @@ Roborock App 支持 Android 和 iOS 双平台，安装包体积不大（通常�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/roborock)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/roborock)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/roborock)
+
+## 📚 相关文章
+
+- [Roborock App 快问快答：机器人扫得干不干净，App 说了算](https://laoguosofts.github.io/posts/roborock.html)

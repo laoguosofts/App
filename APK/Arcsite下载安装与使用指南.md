@@ -142,3 +142,7 @@ ArcSite 支持方案模板——你可以把自己常用的方案结构存成模
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Arcsite)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Arcsite)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Arcsite)
+
+## 📚 相关文章
+
+- [Arcsite 上手三天：在客户现场就能把活干完的建筑测量工具](https://laoguosofts.github.io/posts/arcsite-docs.html)

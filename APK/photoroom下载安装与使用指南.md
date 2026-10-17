@@ -206,3 +206,7 @@ Photoroom 五端覆盖，聪明的做法是按工作流特点组合使用：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/photoroom)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/photoroom)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/photoroom)
+
+## 📚 相关文章
+
+- [我替朋友开网店抠了一百张图，Photoroom 救了我半条命](https://laoguosofts.github.io/posts/photoroom-docs.html)

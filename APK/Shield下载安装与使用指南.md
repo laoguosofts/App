@@ -141,3 +141,7 @@ Shield 的市场里有第三方上传的 APK 文件，和工具自身的安装�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Shield)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Shield)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Shield)
+
+## 📚 相关文章
+
+- [我是怎么用一套手机端工具从需求到 APK 全走完小工具开发的](https://laoguosofts.github.io/posts/shield-docs.html)

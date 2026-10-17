@@ -124,3 +124,7 @@ Web 资源遇到问题时可以对照下表排查：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/easyconnect)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/easyconnect)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/easyconnect)
+
+## 📚 相关文章
+
+- [深信服 EasyConnect 付费账本：老 SSL VPN 还续吗？](https://laoguosofts.github.io/posts/easyconnect-docs.html)

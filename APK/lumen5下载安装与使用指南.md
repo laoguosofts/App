@@ -119,3 +119,7 @@ Lumen5 本质上是一个网页应用，严格来说没有传统软件的「安�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/lumen5)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/lumen5)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/lumen5)
+
+## 📚 相关文章
+
+- [周五下班前的紧急视频：我是怎么用 lumen5 十分钟搞定朋友圈素材的](https://laoguosofts.github.io/posts/lumen5.html)

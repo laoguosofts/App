@@ -186,3 +186,7 @@ Readwise 内置 AI 助手，有两个层级：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Readwise)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Readwise)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Readwise)
+
+## 📚 相关文章
+
+- [Readwise 深度用了一年：它凭什么在高亮管理这个冷门赛道里扎稳了根](https://laoguosofts.github.io/posts/readwise-docs.html)

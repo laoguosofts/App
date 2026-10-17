@@ -115,3 +115,7 @@ PS3 游戏在模拟器里有三种常见形态，导入方式完全不同，先�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/rpcs3)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/rpcs3)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/rpcs3)
+
+## 📚 相关文章
+
+- [RPCS3 避坑指南：五个我踩过才记住的模拟器暗礁](https://laoguosofts.github.io/posts/rpcs3.html)

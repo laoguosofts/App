@@ -162,3 +162,7 @@ Keep 虽然没有文件夹，但有几个组织笔记的方式值得了解：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/google%20keep)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/google%20keep)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/google%20keep)
+
+## 📚 相关文章
+
+- [Google Keep 用了三年才发现的五个坑，每一个都差点让我丢数据](https://laoguosofts.github.io/posts/google-keep-docs.html)

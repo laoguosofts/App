@@ -197,3 +197,7 @@ Hamibot 有两类日志：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/hamibot)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/hamibot)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/hamibot)
+
+## 📚 相关文章
+
+- [Hamibot 从零跑通：一台安卓机到脚本自动执行的完整实操](https://laoguosofts.github.io/posts/hamibot.html)

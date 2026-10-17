@@ -130,3 +130,7 @@ v2.11 版本后开放了截图权限，但**仅限个人使用**，不要大量�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/jisooapp)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/jisooapp)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/jisooapp)
+
+## 📚 相关文章
+
+- [每周 15 分钟搞定——JISOO App 在我的内容整理工作流里](https://laoguosofts.github.io/posts/jisooapp.html)

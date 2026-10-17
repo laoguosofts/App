@@ -88,3 +88,7 @@ Iwara 社区的内容标题和标签大量使用日文或英文原名，直接�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Iwara)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Iwara)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/Iwara)
+
+## 📚 相关文章
+
+- [Iwara 客户端对比同类社区：小众圈子也值得专门装一个](https://laoguosofts.github.io/posts/iwara-docs.html)

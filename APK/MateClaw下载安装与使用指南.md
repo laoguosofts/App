@@ -126,3 +126,7 @@ Wiki 搜索也不是简单全文搜索，三路并行：**标题精确匹配** +
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/MateClaw)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/MateClaw)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/MateClaw)
+
+## 📚 相关文章
+
+- [深夜十二点，我让 MateClaw 替我写完了竞品调研报告](https://laoguosofts.github.io/posts/mateclaw.html)

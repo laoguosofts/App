@@ -189,3 +189,7 @@ CMD ["sh", "-c", "npx prisma migrate deploy && npm start"]
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Prisma)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Prisma)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Prisma)
+
+## 📚 相关文章
+
+- [用 Prisma 两周，我终于把写 SQL 的坏毛病戒掉了](https://laoguosofts.github.io/posts/prisma-zh-docs.html)

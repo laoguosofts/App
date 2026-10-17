@@ -131,3 +131,7 @@ WearOS 工具箱是 Android 手机端应用，安装过程跟普通 APK 没区�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/Wearos)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/Wearos)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/Wearos)
+
+## 📚 相关文章
+
+- [Wear OS 手表从零折腾全流程：配对、装应用、闪退自救一篇搞定](https://laoguosofts.github.io/posts/wearos.html)

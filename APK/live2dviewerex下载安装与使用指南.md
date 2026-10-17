@@ -107,3 +107,7 @@ ExAPI 是 Live2DViewerEX 提供的 WebSocket API，让任何本机运行的软�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/live2dviewerex)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/live2dviewerex)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/live2dviewerex)
+
+## 📚 相关文章
+
+- [Live2DViewerEX 原理解析：从模型渲染到跨平台壁纸的设计取舍](https://laoguosofts.github.io/posts/live2dviewerex.html)

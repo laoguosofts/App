@@ -131,3 +131,7 @@ PhotoGrid 支持的图片格式：JPG、JPEG、PNG、WEBP、GIF，单张图片�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/PhotoGrid)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/PhotoGrid)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/PhotoGrid)
+
+## 📚 相关文章
+
+- [PhotoGrid 这几年在往哪走——从拼图 App 到 AI 创作工具的进化观察](https://laoguosofts.github.io/posts/photogrid-docs.html)

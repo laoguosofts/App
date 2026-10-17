@@ -117,3 +117,7 @@ Foscam NVR 产品线覆盖 8 路和 16 路规格，支持最多 2 块 16TB 硬�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/foscam)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/foscam)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/foscam)
+
+## 📚 相关文章
+
+- [家用摄像头我前后换了五个牌子，Foscam 有两点至今没被追上](https://laoguosofts.github.io/posts/foscam.html)

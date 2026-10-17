@@ -136,3 +136,7 @@ Android 平台的安装相对灵活，有两条常规路径：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/LumaFusion)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/LumaFusion)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/LumaFusion)
+
+## 📚 相关文章
+
+- [每周三条短视频的移动剪辑流水线：LumaFusion嵌进去之后省了多少事](https://laoguosofts.github.io/posts/lumafusion.html)

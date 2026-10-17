@@ -114,3 +114,7 @@ Studio 是 MissAI 的创作者工作台，核心功能是配置 AI 角色的「�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MissAI)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MissAI)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/MissAI)
+
+## 📚 相关文章
+
+- [AI 角色对话横评：MissAI 凭什么在同类里站稳](https://laoguosofts.github.io/posts/missai.html)

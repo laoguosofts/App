@@ -105,3 +105,7 @@ Symfonium 的更新节奏大致是：大版本（14.x → 15.0）半年到一年
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Symfonium)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Symfonium)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Symfonium)
+
+## 📚 相关文章
+
+- [Symfonium 15.0 为什么是一次"推倒重来"](https://laoguosofts.github.io/posts/symfonium.html)

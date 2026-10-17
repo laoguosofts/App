@@ -70,3 +70,7 @@ MiFun 聚合了多家播放源，一个源出问题（网络抖动、版权限�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/mifun)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/mifun)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/mifun)
+
+## 📚 相关文章
+
+- [MiFun 用了大半年，说说那些当初没料到的事](https://laoguosofts.github.io/posts/mifun-docs.html)

@@ -115,3 +115,6 @@ Settings 面板里的回复长度、创造性温度、记忆窗口、人设强�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/meimodu)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/meimodu)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD%E5%AE%98%E7%BD%91/meimodu)
+## 📚 相关文章
+
+- [Meimodu 快问快答：双轨记忆、人设回滚、助眠白噪音一次讲清](https://laoguosofts.github.io/posts/meimodu.html)

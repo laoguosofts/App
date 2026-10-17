@@ -138,3 +138,7 @@ Rotation 提供了**事件优先级**设定页来解决这个问题。进入 Rot
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/APP/rotation)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/APP/rotation)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/APP/rotation)
+
+## 📚 相关文章
+
+- [屏幕方向控制工具横评：Rotation 为什么值得单独拎出来讲](https://laoguosofts.github.io/posts/rotation-docs.html)

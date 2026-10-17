@@ -149,3 +149,7 @@ KimiClaw 连接了 ClawHub 技能库，里面有 5000+ 现成技能可以一键�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/KimiClaw)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/KimiClaw)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/KimiClaw)
+
+## 📚 相关文章
+
+- [KimiClaw 迭代观察：从本地终端到云端协作的一条暗线](https://laoguosofts.github.io/posts/kimiclaw.html)

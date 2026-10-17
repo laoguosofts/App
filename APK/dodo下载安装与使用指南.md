@@ -83,3 +83,7 @@ DoDo 平台本身做了一些机制性的隐私保护：不读取通讯录、支
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/dodo)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/dodo)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/dodo)
+
+## 📚 相关文章
+
+- [我装了 DoDo 一周，终于看懂了为什么动森玩家都往这扎堆](https://laoguosofts.github.io/posts/dodo-docs.html)

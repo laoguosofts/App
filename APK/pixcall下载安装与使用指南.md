@@ -151,3 +151,7 @@ Pixcall 原生支持（无需额外插件）以下图片格式的预览和缩略
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/Pixcall)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/Pixcall)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/Pixcall)
+
+## 📚 相关文章
+
+- [pixcall 用了大半年，说点时间才能看出来的事](https://laoguosofts.github.io/posts/pixcall.html)

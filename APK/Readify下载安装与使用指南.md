@@ -116,3 +116,7 @@ Readify 的朗读能力是它的核心竞争力。导入书之后点封面进入
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%AD%A3%E7%89%88/Readify)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%AD%A3%E7%89%88/Readify)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%AD%A3%E7%89%88/Readify)
+
+## 📚 相关文章
+
+- [用 Readify 一周，把我手机里所有听书 App 都删了](https://laoguosofts.github.io/posts/readify-docs.html)

@@ -164,3 +164,7 @@ Kardz 通常支持多种支付渠道，主流的有 PayPal、Visa/Mastercard 信
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/APP/Kardz)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/APP/Kardz)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/APP/Kardz)
+
+## 📚 相关文章
+
+- [我用过三款游戏充值平台，最后留在手机里的是 Kardz](https://laoguosofts.github.io/posts/kardz.html)

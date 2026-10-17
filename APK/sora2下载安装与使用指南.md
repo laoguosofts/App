@@ -104,3 +104,7 @@ Sora 发布时采用 Opt-out 版权政策——默认允许任何人、任何品
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/sora2)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/sora2)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/sora2)
+
+## 📚 相关文章
+
+- [Sora 2 存档值不值得花半小时折腾？一笔给好奇者的时间账](https://laoguosofts.github.io/posts/sora2-docs.html)

@@ -121,3 +121,7 @@ Premium 往上每一档的差异主要集中在 Ultra 上下文完整度、每�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Crushon.AI)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Crushon.AI)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/Crushon.AI)
+
+## 📚 相关文章
+
+- [Crushon.AI 避坑指南：这四个雷我替你踩过了](https://laoguosofts.github.io/posts/crushon-ai-docs.html)

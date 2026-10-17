@@ -127,3 +127,7 @@ Bilby 不做「猜你喜欢」的原因是它的产品定位——帮助你管�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/APP/Bilby)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/APP/Bilby)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/APP/Bilby)
+
+## 📚 相关文章
+
+- [每周追 20 个技术 UP 主，我用 Bilby 搭了一条不被算法打断的追更流水线](https://laoguosofts.github.io/posts/bilby-docs.html)

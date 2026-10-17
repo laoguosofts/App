@@ -109,3 +109,7 @@ JHenTai 支持把几乎所有设置和数据导出成一个带时间戳的 JSON 
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/JHenTai)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/JHenTai)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/JHenTai)
+
+## 📚 相关文章
+
+- [JHenTai 新手入门：从完全不懂到用起来只需五分钟](https://laoguosofts.github.io/posts/jhentai.html)

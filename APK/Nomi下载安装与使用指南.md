@@ -146,3 +146,7 @@ Nomi（Pro 订阅）最多支持创建 10 个独立角色，每个角色有独�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Nomi)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Nomi)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/Nomi)
+
+## 📚 相关文章
+
+- [用了大半年 Nomi，我终于想清楚它值不值那九块九](https://laoguosofts.github.io/posts/nomi-zh-docs.html)

@@ -65,3 +65,7 @@ Kotatsu 支持调用 Android 系统的生物识别 API，用指纹或脸部快�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Kotatsu)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Kotatsu)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/Kotatsu)
+
+## 📚 相关文章
+
+- [Kotatsu 版本进化史：从 MangaDex 到 Material You 的迭代之旅](https://laoguosofts.github.io/posts/kotatsu-docs.html)

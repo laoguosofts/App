@@ -206,3 +206,7 @@ Wan2.2 采用 Apache 2.0 许可，模型权重和代码都可以自由使用：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Wan2.2)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Wan2.2)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Wan2.2)
+
+## 📚 相关文章
+
+- [我把 Wan2.2 从跑不起来到跑通 720P，踩了这六个坑](https://laoguosofts.github.io/posts/wan2-2-docs.html)

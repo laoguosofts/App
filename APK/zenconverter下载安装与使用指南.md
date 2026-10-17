@@ -114,3 +114,6 @@ JPG 的 EXIF 擦除走的是**原地删段**路线，不是解码→改像素→
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/zenconverter)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/zenconverter)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/zenconverter)
+## 📚 相关文章
+
+- [为什么 ZenConverter 宁可说"不行"，也不做"万能转换器"](https://laoguosofts.github.io/posts/zenconverter-docs.html)

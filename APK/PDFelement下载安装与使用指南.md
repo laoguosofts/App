@@ -137,3 +137,7 @@ PDFelement 的功能矩阵非常完整，日常使用中最高频的几个能力
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/PDFelement)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/PDFelement)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/PDFelement)
+
+## 📚 相关文章
+
+- [每周三份行业简报，我用 PDFelement 把四步压缩成一条链](https://laoguosofts.github.io/posts/pdfelement.html)

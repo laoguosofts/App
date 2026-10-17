@@ -113,3 +113,7 @@ NyaHentai 是一款面向移动端的漫画阅读应用，核心卖点是基于�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/NyaHentai)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/NyaHentai)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/NyaHentai)
+
+## 📚 相关文章
+
+- [NyaHentai 里藏着的四个冷门玩法——从评论探测器到专题淘货](https://laoguosofts.github.io/posts/nyahentai-docs.html)

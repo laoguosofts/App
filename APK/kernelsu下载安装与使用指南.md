@@ -130,3 +130,7 @@ LKM 模式下，日常升级 KernelSU 版本就是在管理器里点直接安装
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/kernelsu)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/kernelsu)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/kernelsu)
+
+## 📚 相关文章
+
+- [KernelSU 新手入门：什么是内核级 Root，五分钟装上去先玩起来](https://laoguosofts.github.io/posts/kernelsu-docs.html)

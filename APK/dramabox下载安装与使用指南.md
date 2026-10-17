@@ -108,3 +108,7 @@ CEO、亿万富翁类短剧的基本配方是铁三角：隐藏身份的大佬 +
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/dramabox)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/dramabox)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/dramabox)
+
+## 📚 相关文章
+
+- [竖屏短剧应用横评：Dramabox 为什么在同类里排得上号](https://laoguosofts.github.io/posts/dramabox-docs.html)

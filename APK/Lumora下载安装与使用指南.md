@@ -122,3 +122,7 @@ Lumora 对聊天记录采用了**本地与云端双重加密**机制。登录账
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Lumora)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Lumora)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%89%8B%E6%9C%BA%E7%89%88/Lumora)
+
+## 📚 相关文章
+
+- [Lumora 用了四个月，我把它从"新鲜感玩具"变成了日常打开的东西](https://laoguosofts.github.io/posts/lumora-zh-docs.html)

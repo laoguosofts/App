@@ -123,3 +123,7 @@ PojavLauncher 的核心优势之一是完整支持 Forge 和 Fabric 两套模组
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/PojavLauncher)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/PojavLauncher)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/PojavLauncher)
+
+## 📚 相关文章
+
+- [把高三攒的一百个模组搬进了宿舍，PojavLauncher让我在手机上续上了Minecraft](https://laoguosofts.github.io/posts/pojavlauncher-docs.html)

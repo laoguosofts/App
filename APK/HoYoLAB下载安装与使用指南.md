@@ -107,3 +107,7 @@ HoYoLAB 不是单一游戏社区，而是全产品线的集合入口。每款游
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/HoYoLAB)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/HoYoLAB)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/HoYoLAB)
+
+## 📚 相关文章
+
+- [HoYoLAB 六年迭代：从游戏公告板到玩家社区的缓慢转身](https://laoguosofts.github.io/posts/hoyolab.html)

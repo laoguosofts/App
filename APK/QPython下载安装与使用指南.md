@@ -212,3 +212,7 @@ devices = droid.bluetoothDiscover()
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/QPython)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/QPython)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E7%BD%91%E9%A1%B5%E7%89%88/QPython)
+
+## 📚 相关文章
+
+- [手机上跑 Python 到底能有多顺手？QPython 三年老用户的对比结论](https://laoguosofts.github.io/posts/qpython.html)

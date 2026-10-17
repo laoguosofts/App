@@ -89,3 +89,7 @@ DataTool 的能力可以按使用顺序拆成几个环节，下面结合真实�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/DataTool)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/DataTool)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/DataTool)
+
+## 📚 相关文章
+
+- [DataTool 安卓端上手实战：从粘链接到产出可用素材的完整流程](https://laoguosofts.github.io/posts/datatool-docs.html)

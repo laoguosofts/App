@@ -138,3 +138,7 @@ Bot 有虚拟桌面、浏览器、文件系统三个核心组件，这意味着�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/grok%20ai)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/grok%20ai)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/grok%20ai)
+
+## 📚 相关文章
+
+- [Grok AI 对比评测：马斯克家的 AI，到底比别家多了什么？](https://laoguosofts.github.io/posts/grok-ai-docs.html)

@@ -115,3 +115,7 @@ Steam 版是 gogh 功能最完整的版本，包括桌面陪伴迷你窗口、�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/gogh)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/gogh)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E7%BD%91%E7%89%88/gogh)
+
+## 📚 相关文章
+
+- [专注类工具跨界玩家 gogh：当捏人、3D 房间和番茄钟塞进同一个 App](https://laoguosofts.github.io/posts/gogh-docs.html)

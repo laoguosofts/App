@@ -118,3 +118,7 @@ Incredibox 的核心操作就是"拖图标到角色身上"，但要玩出好的�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/APP/Incredibox)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/APP/Incredibox)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/APP/Incredibox)
+
+## 📚 相关文章
+
+- [Incredibox 看着简单，用起来这几个坑你一定要避开](https://laoguosofts.github.io/posts/incredibox-docs.html)

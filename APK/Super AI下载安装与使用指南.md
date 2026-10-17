@@ -101,3 +101,7 @@ Super AI 的文档摘要功能可以把长公众号文章、工作群聊记录�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%8B%E8%BD%BD/Super%20AI)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%8B%E8%BD%BD/Super%20AI)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%8B%E8%BD%BD/Super%20AI)
+
+## 📚 相关文章
+
+- [用 Super AI 踩过的五个坑，别再犯了](https://laoguosofts.github.io/posts/super-ai-docs.html)

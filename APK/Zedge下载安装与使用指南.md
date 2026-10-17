@@ -109,3 +109,7 @@ Zedge 不强制注册，游客也能浏览内容、下载壁纸和铃声，甚�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Zedge)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Zedge)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E6%9C%80%E6%96%B0%E7%89%88/Zedge)
+
+## 📚 相关文章
+
+- [用 Zedge 串起每周产品分享的一条龙工作流](https://laoguosofts.github.io/posts/zedge-docs.html)

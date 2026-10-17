@@ -80,3 +80,7 @@ LibChecker 有几项可选权限：**Shizuku 授权**可以获得更准确的 DE
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/LibChecker)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/LibChecker)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/LibChecker)
+
+## 📚 相关文章
+
+- [用 LibChecker 三分钟摸清手机里每个 App 的底细](https://laoguosofts.github.io/posts/libchecker.html)

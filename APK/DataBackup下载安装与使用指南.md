@@ -105,3 +105,7 @@ DataBackup 还支持把一个用户的备份还原给另一个用户——比如
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/DataBackup)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/DataBackup)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%98%E6%96%B9%E7%89%88/DataBackup)
+
+## 📚 相关文章
+
+- [每周刷机不丢数据：我用 DataBackup 串起一套自动恢复链](https://laoguosofts.github.io/posts/databackup.html)

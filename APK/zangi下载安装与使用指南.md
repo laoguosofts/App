@@ -130,3 +130,7 @@ Zangi 的举报处理是**自动化**的：账号累计收到一定数量的举�
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/zangi)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/zangi)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E5%AE%89%E5%8D%93%E7%89%88/zangi)
+
+## 📚 相关文章
+
+- [我装了 Zangi，注册连手机号都没要，聊了三天说点真话](https://laoguosofts.github.io/posts/zangi-docs.html)

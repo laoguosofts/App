@@ -127,3 +127,7 @@ SOUNDRAW Grid 移动端有两个 Web 端没有的特色玩法：
 - [GitHub 仓库](https://github.com/alipymanbu/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Soundraw)
 - [Gitee 镜像](https://gitee.com/manbu1103/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Soundraw)
 - [GitCode 镜像](https://gitcode.com/qq352325405/APK/tree/main/%E4%B8%AD%E6%96%87%E7%89%88/Soundraw)
+
+## 📚 相关文章
+
+- [为什么 Soundraw 敢说自己是唯一版权安全的 AI 音乐工具](https://laoguosofts.github.io/posts/soundraw-docs.html)
