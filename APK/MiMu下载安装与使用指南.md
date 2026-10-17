@@ -127,3 +127,5 @@ MiMu 同时支持 iOS 和 Android 两个平台，安装流程因系统而异。
 ## 📚 相关文章
 
 - [MiMu 进化史：一张单词卡怎么长出了五条悟和小岛养成](https://laoguosofts.github.io/posts/mimu-docs.html)
+
+- [MiMu这一路：从背单词到"边撩边学"的AI学习产品进化](https://alipymanbu.github.io/posts/mimu-docs.html)

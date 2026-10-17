@@ -138,3 +138,5 @@ orbitv 的 Personal 区域允许你导入自定义的 M3U、M3U8、MPD、MP4 格
 ## 📚 相关文章
 
 - [把全球直播嵌进每周工作流：一个 orbitv 重度用户的拼链笔记](https://laoguosofts.github.io/posts/orbitv-docs.html)
+
+- [我用 orbitv 搭了一条每周追踪国际新闻的零切换工作流](https://alipymanbu.github.io/posts/orbitv-docs.html)

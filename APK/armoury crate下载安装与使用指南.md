@@ -141,3 +141,5 @@ Scenario Profiles 是 Armoury Crate 里最「智能」的功能。你可以设�
 ## 📚 相关文章
 
 - [装 Armoury Crate 踩过的那些坑——从"装不上"到"能省心用"](https://laoguosofts.github.io/posts/armoury-crate-docs.html)
+
+- [Armoury Crate 避坑指南：这几个地方我踩过了，你别再踩](https://alipymanbu.github.io/posts/armoury-crate-docs.html)

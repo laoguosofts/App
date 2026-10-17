@@ -117,3 +117,5 @@ NyaHentai 是一款面向移动端的漫画阅读应用，核心卖点是基于�
 ## 📚 相关文章
 
 - [NyaHentai 里藏着的四个冷门玩法——从评论探测器到专题淘货](https://laoguosofts.github.io/posts/nyahentai-docs.html)
+
+- [喵绅士里藏得最深的五个冷操作，老用户也未必全知道](https://alipymanbu.github.io/posts/nyahentai-docs.html)

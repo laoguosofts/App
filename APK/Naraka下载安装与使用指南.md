@@ -124,3 +124,5 @@ Naraka 与大多数同类工具最明显的区别在于它不展示具体的服�
 ## 📚 相关文章
 
 - [Naraka 到底值不值得掏钱？一笔算得清的加速账本](https://laoguosofts.github.io/posts/naraka-docs.html)
+
+- [Naraka 值不值得掏钱？把免费签到和付费订阅算明白](https://alipymanbu.github.io/posts/naraka-docs.html)

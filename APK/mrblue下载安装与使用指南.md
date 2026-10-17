@@ -114,3 +114,5 @@ mrblue 的离线缓存存在应用内部存储，普通文件管理器看不到�
 ## 📚 相关文章
 
 - [mrblue 用了半年，那些当初没预料到的事](https://laoguosofts.github.io/posts/mrblue-docs.html)
+
+- [mrblue 用了快一年，有些当初没料到的事](https://alipymanbu.github.io/posts/mrblue-docs.html)

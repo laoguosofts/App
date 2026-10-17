@@ -154,3 +154,5 @@ Promeo 把视频工作流分成三层，用户可以在任意一层停下来导�
 ## 📚 相关文章
 
 - [大促前夜改海报改到崩溃，朋友甩来一个 AI 工具十分钟救了场](https://laoguosofts.github.io/posts/promeo.html)
+
+- [一个人开淘宝店，拍耳机产品图的日子终于不用熬大夜了](https://alipymanbu.github.io/posts/promeo.html)

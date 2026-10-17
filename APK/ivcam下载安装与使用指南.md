@@ -143,3 +143,5 @@ iVCam 的录像直接落盘手机传来的数据（不重编码），由此带�
 ## 📚 相关文章
 
 - [iVCam 到底值不值得掏钱？把免费版和付费版的账算明白](https://laoguosofts.github.io/posts/ivcam-docs.html)
+
+- [用手机当摄像头的 iVCam，到底值不值得掏钱？](https://alipymanbu.github.io/posts/ivcam-docs.html)

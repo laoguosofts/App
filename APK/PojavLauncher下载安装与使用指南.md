@@ -127,3 +127,5 @@ PojavLauncher 的核心优势之一是完整支持 Forge 和 Fabric 两套模组
 ## 📚 相关文章
 
 - [把高三攒的一百个模组搬进了宿舍，PojavLauncher让我在手机上续上了Minecraft](https://laoguosofts.github.io/posts/pojavlauncher-docs.html)
+
+- [宿舍午休惊现 Minecraft Java 版——我在手机上跑了一整个下午的模组](https://alipymanbu.github.io/posts/pojavlauncher-docs.html)

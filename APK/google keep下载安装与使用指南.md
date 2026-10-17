@@ -166,3 +166,5 @@ Keep 虽然没有文件夹，但有几个组织笔记的方式值得了解：
 ## 📚 相关文章
 
 - [Google Keep 用了三年才发现的五个坑，每一个都差点让我丢数据](https://laoguosofts.github.io/posts/google-keep-docs.html)
+
+- [Google Keep 踩坑实录 —— 看着简单的便签 App，藏着 5 个容易翻车的点](https://alipymanbu.github.io/posts/google-keep-docs.html)

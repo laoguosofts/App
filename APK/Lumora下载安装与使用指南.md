@@ -126,3 +126,5 @@ Lumora 对聊天记录采用了**本地与云端双重加密**机制。登录账
 ## 📚 相关文章
 
 - [Lumora 用了四个月，我把它从"新鲜感玩具"变成了日常打开的东西](https://laoguosofts.github.io/posts/lumora-zh-docs.html)
+
+- [装了八个月，Lumora 让我从"每天点开"变成"隔三天才看一眼"](https://alipymanbu.github.io/posts/lumora-zh-docs.html)

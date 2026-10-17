@@ -123,3 +123,5 @@ Lumen5 本质上是一个网页应用，严格来说没有传统软件的「安�
 ## 📚 相关文章
 
 - [周五下班前的紧急视频：我是怎么用 lumen5 十分钟搞定朋友圈素材的](https://laoguosofts.github.io/posts/lumen5.html)
+
+- [周三下午那篇探店稿，半小时就变成了抖音视频](https://alipymanbu.github.io/posts/lumen5.html)

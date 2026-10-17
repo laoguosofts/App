@@ -141,3 +141,5 @@ RSS 自动下载是 Flud 最省心的高级功能之一——给它一个 RSS �
 ## 📚 相关文章
 
 - [用了半年 Flud 才发现：这 5 个隐藏功能让手机 BT 下载彻底翻身](https://laoguosofts.github.io/posts/flud.html)
+
+- [把 Flud 翻了个底朝天：五个藏得真深的冷门技巧](https://alipymanbu.github.io/posts/flud.html)

@@ -142,3 +142,5 @@ Bot 有虚拟桌面、浏览器、文件系统三个核心组件，这意味着�
 ## 📚 相关文章
 
 - [Grok AI 对比评测：马斯克家的 AI，到底比别家多了什么？](https://laoguosofts.github.io/posts/grok-ai-docs.html)
+
+- [Grok AI 对比实测：X 生态加持下的 AI 聊天工具到底值不值](https://alipymanbu.github.io/posts/grok-ai-docs.html)

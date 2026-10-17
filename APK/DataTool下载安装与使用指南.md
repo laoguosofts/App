@@ -93,3 +93,5 @@ DataTool 的能力可以按使用顺序拆成几个环节，下面结合真实�
 ## 📚 相关文章
 
 - [DataTool 安卓端上手实战：从粘链接到产出可用素材的完整流程](https://laoguosofts.github.io/posts/datatool-docs.html)
+
+- [DataTool 视频素材处理实战：从下载到后处理一条龙](https://alipymanbu.github.io/posts/datatool-docs.html)

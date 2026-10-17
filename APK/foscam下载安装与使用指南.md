@@ -121,3 +121,5 @@ Foscam NVR 产品线覆盖 8 路和 16 路规格，支持最多 2 块 16TB 硬�
 ## 📚 相关文章
 
 - [家用摄像头我前后换了五个牌子，Foscam 有两点至今没被追上](https://laoguosofts.github.io/posts/foscam.html)
+
+- [Foscam 摄像头深度体验：家用监控到底值不值得上？](https://alipymanbu.github.io/posts/foscam.html)

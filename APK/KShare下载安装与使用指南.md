@@ -110,3 +110,5 @@ KShare 是一套面向会议场景的无线投屏方案，由皓丽（Horion）�
 ## 📚 相关文章
 
 - [把会议室投屏这件事交给 KShare 一年后，我重新理解了"够用"](https://laoguosofts.github.io/posts/kshare-docs.html)
+
+- [装KShare大半年后：那些当初没注意到的好用与糟心](https://alipymanbu.github.io/posts/kshare-docs.html)

@@ -111,3 +111,5 @@ Sketchbook 的四类典型用户各自的用法差别很大：
 ## 📚 相关文章
 
 - [别再羡慕别人手机画画好看——Sketchbook 新手五分钟入门指南](https://laoguosofts.github.io/posts/sketchbook-docs.html)
+
+- [手机画画也能很专业？Sketchbook 从装上去到画出第一张像样作品](https://alipymanbu.github.io/posts/sketchbook-docs.html)

@@ -130,3 +130,5 @@ Wiki 搜索也不是简单全文搜索，三路并行：**标题精确匹配** +
 ## 📚 相关文章
 
 - [深夜十二点，我让 MateClaw 替我写完了竞品调研报告](https://laoguosofts.github.io/posts/mateclaw.html)
+
+- [周六深夜被踢下线之后，我给服务器上的 Agent 装了 MateClaw](https://alipymanbu.github.io/posts/mateclaw.html)

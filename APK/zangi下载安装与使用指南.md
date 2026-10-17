@@ -134,3 +134,5 @@ Zangi 的举报处理是**自动化**的：账号累计收到一定数量的举�
 ## 📚 相关文章
 
 - [我装了 Zangi，注册连手机号都没要，聊了三天说点真话](https://laoguosofts.github.io/posts/zangi-docs.html)
+
+- [上手 Zangi 三天，这款默认加密的聊天软件让我有点意外](https://alipymanbu.github.io/posts/zangi-docs.html)

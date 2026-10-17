@@ -93,3 +93,5 @@ Duck.ai 是内嵌在搜索与浏览器里的可选 AI 聊天入口，定位与�
 ## 📚 相关文章
 
 - [DuckDuckGo 到底值不值得从 Google 换过来？一个老用户的对比评测](https://laoguosofts.github.io/posts/duckduckgo-com.html)
+
+- [用过十几款搜索引擎后，为什么我还在浏览器里留着 DuckDuckGo](https://alipymanbu.github.io/posts/duckduckgo-com.html)

@@ -120,3 +120,5 @@ Ventusky 最强大的地方在于它把三个可以独立操作的维度交给�
 ## 📚 相关文章
 
 - [Ventusky 看着简单，用着有几个坑我替你踩过了](https://laoguosofts.github.io/posts/ventusky-docs.html)
+
+- [Ventusky 用了三个月，踩过的五个坑一次说清](https://alipymanbu.github.io/posts/ventusky-docs.html)

@@ -201,3 +201,5 @@ Hamibot 有两类日志：
 ## 📚 相关文章
 
 - [Hamibot 从零跑通：一台安卓机到脚本自动执行的完整实操](https://laoguosofts.github.io/posts/hamibot.html)
+
+- [半小时上手 Hamibot：从安装到跑第一条自动化脚本](https://alipymanbu.github.io/posts/hamibot.html)

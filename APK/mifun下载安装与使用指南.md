@@ -74,3 +74,5 @@ MiFun 聚合了多家播放源，一个源出问题（网络抖动、版权限�
 ## 📚 相关文章
 
 - [MiFun 用了大半年，说说那些当初没料到的事](https://laoguosofts.github.io/posts/mifun-docs.html)
+
+- [用了一年多 MiFun，说说这款追番工具到底值不值得留](https://alipymanbu.github.io/posts/mifun-docs.html)

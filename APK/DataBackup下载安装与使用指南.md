@@ -109,3 +109,5 @@ DataBackup 还支持把一个用户的备份还原给另一个用户——比如
 ## 📚 相关文章
 
 - [每周刷机不丢数据：我用 DataBackup 串起一套自动恢复链](https://laoguosofts.github.io/posts/databackup.html)
+
+- [把 DataBackup 嵌进我的刷机与换机工作流](https://alipymanbu.github.io/posts/databackup.html)

@@ -183,3 +183,5 @@ Readingo 的短板也得说实话：Android 版没有 iCloud 同步，iOS 以外
 ## 📚 相关文章
 
 - [Readingo 深度评测：离线阅读赛道的"固执"继承者](https://laoguosofts.github.io/posts/readingo.html)
+
+- [Readingo 对比横评：在阅读器红海站稳脚跟的那几个细节](https://alipymanbu.github.io/posts/readingo.html)

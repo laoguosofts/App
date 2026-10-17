@@ -120,3 +120,5 @@ Explore 是"看"——可以提前预览其他城市的网格，预习落地后�
 ## 📚 相关文章
 
 - [Grindr 1500 万月活背后，距离排序这套算法到底藏了多少门道](https://laoguosofts.github.io/posts/grindr-docs.html)
+
+- [Grindr 隐私架构深解：为什么它敢把真实位置暴露到这种程度](https://alipymanbu.github.io/posts/grindr-docs.html)

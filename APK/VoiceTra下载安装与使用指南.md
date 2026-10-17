@@ -130,3 +130,5 @@ VoiceTra 定位在日常对话翻译，有些场景它帮不上太多：
 ## 📚 相关文章
 
 - [带 VoiceTra 去东京：一个日语零分的人用它撑了 7 天](https://laoguosofts.github.io/posts/voicetra.html)
+
+- [带 VoiceTra 跑了一趟东南亚，这款免费翻译 App 有点东西](https://alipymanbu.github.io/posts/voicetra.html)

@@ -147,3 +147,5 @@ PNG 序列是原始素材，归档时不要只留最终 MP4——如果以后需
 ## 📚 相关文章
 
 - [MikuMikuDance 入门指南——从零跳到让初音动起来只需要五分钟](https://laoguosofts.github.io/posts/mikumikudance.html)
+
+- [从零开始用 MikuMikuDance — 不写代码也能让虚拟角色跳起来](https://alipymanbu.github.io/posts/mikumikudance.html)

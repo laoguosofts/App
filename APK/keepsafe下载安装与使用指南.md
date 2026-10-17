@@ -136,3 +136,5 @@ Keepsafe 的 PIN 找回**只有一条路：恢复邮箱**。触发入口在 PIN 
 ## 📚 相关文章
 
 - [Keepsafe 付费账本：¥238/年的私人保险柜到底值不值？](https://laoguosofts.github.io/posts/keepsafe-docs.html)
+
+- [Keepsafe Premium 到底值不值得掏钱——一份认真算过的账本](https://alipymanbu.github.io/posts/keepsafe-docs.html)

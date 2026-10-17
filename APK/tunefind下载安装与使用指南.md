@@ -117,3 +117,5 @@ Tunefind 的热度算法综合考虑歌曲在热门影视里的出现频率、�
 ## 📚 相关文章
 
 - [深夜刷剧被一段 BGM 戳中，我是怎么在三分钟内揪出它的](https://laoguosofts.github.io/posts/tunefind.html)
+
+- [周末深夜刷剧被一首歌卡了半小时，直到我掏出了手机](https://alipymanbu.github.io/posts/tunefind.html)

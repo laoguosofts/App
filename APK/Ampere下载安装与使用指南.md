@@ -163,3 +163,5 @@ Ampere 免费版已经覆盖了实时读数、主题切换、基础统计等核�
 ## 📚 相关文章
 
 - [Ampere 新手入门：看懂手机充电那点事，一个 App 就够了](https://laoguosofts.github.io/posts/ampere-docs.html)
+
+- [用 Ampere 看懂你的手机充电电流——新手五分钟上手](https://alipymanbu.github.io/posts/ampere-docs.html)

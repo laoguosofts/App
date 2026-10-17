@@ -166,3 +166,5 @@ Cryptomator 的隐私定位是"默认不采集"——连注册账号都不需要
 ## 📚 相关文章
 
 - [Cryptomator 用了半年我踩过的那些坑——从备份翻车到 RAM 丢数据](https://laoguosofts.github.io/posts/cryptomator-docs.html)
+
+- [Cryptomator 用了半年踩过的七个坑，第三个差点让我丢了所有文件](https://alipymanbu.github.io/posts/cryptomator-docs.html)

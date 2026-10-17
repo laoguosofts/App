@@ -118,3 +118,5 @@ Settings 面板里的回复长度、创造性温度、记忆窗口、人设强�
 ## 📚 相关文章
 
 - [Meimodu 快问快答：双轨记忆、人设回滚、助眠白噪音一次讲清](https://laoguosofts.github.io/posts/meimodu.html)
+
+- [Meimodu 快问快答：AI 角色扮演平台入坑前必须知道的 8 件事](https://alipymanbu.github.io/posts/meimodu.html)

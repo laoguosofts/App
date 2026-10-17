@@ -140,3 +140,5 @@ VIP 的三大核心权益官方宣导得很清楚，实际体验中每个权益�
 ## 📚 相关文章
 
 - [NetShort深度拆解：从竖屏架构到付费模型，它凭什么让短剧上瘾？](https://laoguosofts.github.io/posts/netshort-docs.html)
+
+- [NetShort 的付费墙为什么是双轨制——拆解短剧 App 的商业底层逻辑](https://alipymanbu.github.io/posts/netshort-docs.html)

@@ -94,3 +94,5 @@ AWIND 奇机 A 系列接收端的官方文档里公开的无线传输规格在�
 ## 📚 相关文章
 
 - [ESHOW 装了半年多——从"又要装 App"到会议室离不开的投屏工具](https://laoguosofts.github.io/posts/eshow-docs.html)
+
+- [用了半年 ESHOW，我对这款无线投屏 App 改口了](https://alipymanbu.github.io/posts/eshow-docs.html)

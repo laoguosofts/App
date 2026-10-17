@@ -110,3 +110,5 @@ Sound balance（声道平衡）是免费版就能用的声音调整，入口在�
 ## 📚 相关文章
 
 - [Pulsar 付费账本：轻度主力重度三档各花多少钱](https://laoguosofts.github.io/posts/pulsar-zh-docs.html)
+
+- [Pulsar 到底值不值得掏钱？一个重度用户的付费决策账本](https://alipymanbu.github.io/posts/pulsar-zh-docs.html)

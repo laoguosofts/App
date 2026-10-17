@@ -110,3 +110,5 @@ Copilot 能帮你自动查找类和方法、生成完整可运行的脚本（包
 ## 📚 相关文章
 
 - [从普通用户到离不开内核驱动——jshook 用了大半年的真实感受](https://laoguosofts.github.io/posts/jshook.html)
+
+- [我用了半年 JsHook，从"Frida 替代品"到"AI 时代的 Hook 工作流"](https://alipymanbu.github.io/posts/jshook.html)

@@ -133,3 +133,5 @@ EX 卡不是常驻卡，它在你凑齐三张同色 Chain 后出现——不消�
 ## 📚 相关文章
 
 - [FGO 玩家的周常+活动全流程，一个工具串完](https://laoguosofts.github.io/posts/fgowiki.html)
+
+- [把 fgowiki 嵌进每周 FGO 流程：从看公告到算周常一条链走完](https://alipymanbu.github.io/posts/fgowiki.html)

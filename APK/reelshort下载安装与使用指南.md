@@ -127,3 +127,5 @@ ReelShort 的社区互动不止于评分标签，它还提供了三种进阶形�
 ## 📚 相关文章
 
 - [ReelShort 两年半：从互动小说基因到竖屏短剧头部](https://laoguosofts.github.io/posts/reelshort-docs.html)
+
+- [ReelShort 三年：一部短剧 App 的版本进化史](https://alipymanbu.github.io/posts/reelshort-docs.html)

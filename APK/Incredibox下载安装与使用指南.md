@@ -122,3 +122,5 @@ Incredibox 的核心操作就是"拖图标到角色身上"，但要玩出好的�
 ## 📚 相关文章
 
 - [Incredibox 看着简单，用起来这几个坑你一定要避开](https://laoguosofts.github.io/posts/incredibox-docs.html)
+
+- [Incredibox 这几个坑我踩过——从跨平台到混音丢失的完整翻车实录](https://alipymanbu.github.io/posts/incredibox-docs.html)

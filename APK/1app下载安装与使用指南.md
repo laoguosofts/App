@@ -115,3 +115,5 @@
 ## 📚 相关文章
 
 - [我用了一周1app：一个把海外收钱和国内花钱捏在一起的金融App](https://laoguosofts.github.io/posts/1app-docs.html)
+
+- [1app 深度对比：当尼日利亚本地支付都在内卷，它悄悄把路修到了二十多个国家](https://alipymanbu.github.io/posts/1app-docs.html)

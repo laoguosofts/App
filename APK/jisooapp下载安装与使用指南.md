@@ -134,3 +134,5 @@ v2.11 版本后开放了截图权限，但**仅限个人使用**，不要大量�
 ## 📚 相关文章
 
 - [每周 15 分钟搞定——JISOO App 在我的内容整理工作流里](https://laoguosofts.github.io/posts/jisooapp.html)
+
+- [我用 JISOO App 搭了一条不跳平台的追星工作流](https://alipymanbu.github.io/posts/jisooapp.html)

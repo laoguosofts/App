@@ -112,3 +112,5 @@ Alibi 目前仅支持 Android 平台，安装过程和大多数 APK 应用类似
 ## 📚 相关文章
 
 - [Alibi 到底算不算手机端的行车记录仪](https://laoguosofts.github.io/posts/alibi-docs.html)
+
+- [手机记录仪怎么挑？Alibi 和那些只做"表面功夫"的同类不一样](https://alipymanbu.github.io/posts/alibi-docs.html)

@@ -210,3 +210,5 @@ Wan2.2 采用 Apache 2.0 许可，模型权重和代码都可以自由使用：
 ## 📚 相关文章
 
 - [我把 Wan2.2 从跑不起来到跑通 720P，踩了这六个坑](https://laoguosofts.github.io/posts/wan2-2-docs.html)
+
+- [Wan2.2 本地部署避坑指南：从 OOM 到 FlashAttention 编译失败，我踩过的八个坑](https://alipymanbu.github.io/posts/wan2-2-docs.html)

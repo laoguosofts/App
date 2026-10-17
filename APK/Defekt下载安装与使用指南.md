@@ -128,3 +128,5 @@ Defekt 的特效更新分两类：原生特效由 DeepCraft 团队自己设计�
 ## 📚 相关文章
 
 - [Defekt 深度盘点——手机上的参数化特效创作工具到底有多能打](https://laoguosofts.github.io/posts/defekt.html)
+
+- [Defekt 深度盘点：把艺术特效塞进取景框的安卓相机到底能玩出什么](https://alipymanbu.github.io/posts/defekt.html)

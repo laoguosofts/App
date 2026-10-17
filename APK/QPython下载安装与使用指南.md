@@ -216,3 +216,5 @@ devices = droid.bluetoothDiscover()
 ## 📚 相关文章
 
 - [手机上跑 Python 到底能有多顺手？QPython 三年老用户的对比结论](https://laoguosofts.github.io/posts/qpython.html)
+
+- [QPython 对比评测：手机上跑 Python，它真的比同行好用吗？](https://alipymanbu.github.io/posts/qpython.html)

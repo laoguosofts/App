@@ -150,3 +150,5 @@ Nomi（Pro 订阅）最多支持创建 10 个独立角色，每个角色有独�
 ## 📚 相关文章
 
 - [用了大半年 Nomi，我终于想清楚它值不值那九块九](https://laoguosofts.github.io/posts/nomi-zh-docs.html)
+
+- [用了大半年的 Nomi：从 Odyssey 到 Aurora，它到底在变什么](https://alipymanbu.github.io/posts/nomi-zh-docs.html)

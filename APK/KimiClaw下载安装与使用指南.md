@@ -153,3 +153,5 @@ KimiClaw 连接了 ClawHub 技能库，里面有 5000+ 现成技能可以一键�
 ## 📚 相关文章
 
 - [KimiClaw 迭代观察：从本地终端到云端协作的一条暗线](https://laoguosofts.github.io/posts/kimiclaw.html)
+
+- [KimiClaw 这两年：一个 AI Agent 是怎么从云端跑到你手机上的](https://alipymanbu.github.io/posts/kimiclaw.html)

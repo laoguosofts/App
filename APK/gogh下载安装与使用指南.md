@@ -119,3 +119,5 @@ Steam 版是 gogh 功能最完整的版本，包括桌面陪伴迷你窗口、�
 ## 📚 相关文章
 
 - [专注类工具跨界玩家 gogh：当捏人、3D 房间和番茄钟塞进同一个 App](https://laoguosofts.github.io/posts/gogh-docs.html)
+
+- [当专注工具开始做"陪伴"——gogh 放在效率软件堆里的特别之处](https://alipymanbu.github.io/posts/gogh-docs.html)

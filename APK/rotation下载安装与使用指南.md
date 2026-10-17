@@ -142,3 +142,5 @@ Rotation 提供了**事件优先级**设定页来解决这个问题。进入 Rot
 ## 📚 相关文章
 
 - [屏幕方向控制工具横评：Rotation 为什么值得单独拎出来讲](https://laoguosofts.github.io/posts/rotation-docs.html)
+
+- [还在手动切横竖屏？Rotation 把自动旋转这件事做对了](https://alipymanbu.github.io/posts/rotation-docs.html)

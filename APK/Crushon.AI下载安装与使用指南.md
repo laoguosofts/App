@@ -125,3 +125,5 @@ Premium 往上每一档的差异主要集中在 Ultra 上下文完整度、每�
 ## 📚 相关文章
 
 - [Crushon.AI 避坑指南：这四个雷我替你踩过了](https://laoguosofts.github.io/posts/crushon-ai-docs.html)
+
+- [Crushon.AI 用了三个月，这 5 个坑我替你踩过了](https://alipymanbu.github.io/posts/crushon-ai-docs.html)

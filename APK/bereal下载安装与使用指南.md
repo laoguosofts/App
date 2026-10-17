@@ -129,3 +129,5 @@ BeReal 允许超时发布但标记时间，体现了它一贯的反焦虑哲学�
 ## 📚 相关文章
 
 - [BeReal 到底是怎么把「反社交网络」这件事做成的](https://laoguosofts.github.io/posts/bereal-docs.html)
+
+- [BeReal 深度盘点：一款反社交焦虑的真实实验体现在能做什么](https://alipymanbu.github.io/posts/bereal-docs.html)

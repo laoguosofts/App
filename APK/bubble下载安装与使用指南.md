@@ -104,3 +104,5 @@ bubble 的应用服务器在海外，注册、登录、收消息都需要能正�
 ## 📚 相关文章
 
 - [bubble 藏着多少你没开的开关？把这几个冷门入口翻出来](https://laoguosofts.github.io/posts/bubble-docs.html)
+
+- [用了 bubble 两年才发现：原来它还藏着这些让订阅费值回票价的小设计](https://alipymanbu.github.io/posts/bubble-docs.html)

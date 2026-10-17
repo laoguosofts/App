@@ -210,3 +210,5 @@ Photoroom 五端覆盖，聪明的做法是按工作流特点组合使用：
 ## 📚 相关文章
 
 - [我替朋友开网店抠了一百张图，Photoroom 救了我半条命](https://laoguosofts.github.io/posts/photoroom-docs.html)
+
+- [试了一周 Photoroom，终于不用再为产品图抠图熬大夜](https://alipymanbu.github.io/posts/photoroom-docs.html)

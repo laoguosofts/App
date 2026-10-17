@@ -116,3 +116,5 @@ MChat 有五种典型使用场景。跨设备高频用户用手机收提醒、�
 ## 📚 相关文章
 
 - [MChat 从装到用全流程：三端同步加隐私保护的清爽聊天指南](https://laoguosofts.github.io/posts/mchat-docs.html)
+
+- [从零上手 MChat——装好、聊好、守住隐私的完整实操](https://alipymanbu.github.io/posts/mchat-docs.html)

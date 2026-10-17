@@ -140,3 +140,5 @@ Android 平台的安装相对灵活，有两条常规路径：
 ## 📚 相关文章
 
 - [每周三条短视频的移动剪辑流水线：LumaFusion嵌进去之后省了多少事](https://laoguosofts.github.io/posts/lumafusion.html)
+
+- [我每周剪三期软件演示视频：从双机位录制到桌面端收尾的一套移动优先工作流](https://alipymanbu.github.io/posts/lumafusion.html)

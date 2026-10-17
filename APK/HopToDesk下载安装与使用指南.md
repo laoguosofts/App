@@ -116,3 +116,5 @@ HopToDesk 的面板账号安全是一套组合拳，从个人级的两步验证�
 ## 📚 相关文章
 
 - [HopToDesk 装了大半年，那些当初没在意的细节才是长期用下来的关键](https://laoguosofts.github.io/posts/hoptodesk-docs.html)
+
+- [HopToDesk 用了快一年，说说那些当初没在意的事](https://alipymanbu.github.io/posts/hoptodesk-docs.html)

@@ -91,3 +91,5 @@ AREX 是连接仁川机场和首尔市中心的高速铁路，分直达和普通
 ## 📚 相关文章
 
 - [Creatrip 的护城河：它为什么能把韩国本地服务"翻译"给外国人](https://laoguosofts.github.io/posts/creatrip.html)
+
+- [Creatrip 后台原理拆解：一个 App 如何吃掉韩国旅游的半个生态](https://alipymanbu.github.io/posts/creatrip.html)

@@ -168,3 +168,5 @@ UL Benchmarks 官方建议：对于编辑照片、视频或其他数字内容，
 ## 📚 相关文章
 
 - [PCMark 10 到底值不值得掏钱？三个版本一笔账算清楚](https://laoguosofts.github.io/posts/pcmark.html)
+
+- [PCMark 10 到底值不值得掏钱——一个测评控的付费账本](https://alipymanbu.github.io/posts/pcmark.html)

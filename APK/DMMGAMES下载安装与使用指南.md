@@ -88,3 +88,5 @@ PC 端启动器安装如果卡在下载或启动环节，先看 Windows 版本�
 ## 📚 相关文章
 
 - [DMMGAMES 从零上手：注册、安装、下载游戏一把梭](https://laoguosofts.github.io/posts/dmmgames.html)
+
+- [DMMGAMES 中文玩家入门：PC 启动器装完就能玩的 5 步实战](https://alipymanbu.github.io/posts/dmmgames.html)

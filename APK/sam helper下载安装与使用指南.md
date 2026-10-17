@@ -140,3 +140,5 @@ Sam Helper 集成了 Good Lock 的快速管理入口，可以一键启用或禁�
 ## 📚 相关文章
 
 - [我看着 Sam Helper 一路迭代：一个三星系统增强工具的进化史](https://laoguosofts.github.io/posts/sam-helper-docs.html)
+
+- [Sam Helper 版本进化史：一款围绕 Knox 红线构建的三星工具](https://alipymanbu.github.io/posts/sam-helper-docs.html)

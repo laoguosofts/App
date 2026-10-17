@@ -127,3 +127,5 @@ AppShare 的审核和管理岗位全部来自活跃用户。入门路径是：�
 ## 📚 相关文章
 
 - [AppShare 里藏着你不知道的五个黑科技](https://laoguosofts.github.io/posts/appshare-docs.html)
+
+- [AppShare 藏得真深的五个冷门功能，用了半年才发现第三个](https://alipymanbu.github.io/posts/appshare-docs.html)

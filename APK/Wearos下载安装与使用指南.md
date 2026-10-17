@@ -135,3 +135,5 @@ WearOS 工具箱是 Android 手机端应用，安装过程跟普通 APK 没区�
 ## 📚 相关文章
 
 - [Wear OS 手表从零折腾全流程：配对、装应用、闪退自救一篇搞定](https://laoguosofts.github.io/posts/wearos.html)
+
+- [Wearos 工具箱从入门到上手：连上手表、管文件、调表盘一套通](https://alipymanbu.github.io/posts/wearos.html)

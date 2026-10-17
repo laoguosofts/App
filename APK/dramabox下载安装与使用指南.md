@@ -112,3 +112,5 @@ CEO、亿万富翁类短剧的基本配方是铁三角：隐藏身份的大佬 +
 ## 📚 相关文章
 
 - [竖屏短剧应用横评：Dramabox 为什么在同类里排得上号](https://laoguosofts.github.io/posts/dramabox-docs.html)
+
+- [短剧盒子横评：为什么我最终留在了 dramabox](https://alipymanbu.github.io/posts/dramabox-docs.html)

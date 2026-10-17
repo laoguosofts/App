@@ -117,3 +117,5 @@ JPG 的 EXIF 擦除走的是**原地删段**路线，不是解码→改像素→
 ## 📚 相关文章
 
 - [为什么 ZenConverter 宁可说"不行"，也不做"万能转换器"](https://laoguosofts.github.io/posts/zenconverter-docs.html)
+
+- [ZenConverter 的 38.8MB 之谜：为什么一个能做 AI 超分的转换器体积却这么小](https://alipymanbu.github.io/posts/zenconverter-docs.html)

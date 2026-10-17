@@ -133,3 +133,5 @@ ONVIF 设备接入前需要在电脑端先做一轮配置：电脑装客户端�
 ## 📚 相关文章
 
 - [我用 Seetong 盯了三天店，说点真实感受](https://laoguosofts.github.io/posts/seetong.html)
+
+- [Seetong 上手三天，我把家里监控摄像头从"摆设"变成了真在用的东西](https://alipymanbu.github.io/posts/seetong.html)

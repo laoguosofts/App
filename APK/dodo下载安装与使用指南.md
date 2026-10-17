@@ -87,3 +87,5 @@ DoDo 平台本身做了一些机制性的隐私保护：不读取通讯录、支
 ## 📚 相关文章
 
 - [我装了 DoDo 一周，终于看懂了为什么动森玩家都往这扎堆](https://laoguosofts.github.io/posts/dodo-docs.html)
+
+- [DoDo 上手测评：这款专为游戏玩家做的群聊工具，用了一周我把 Discord 晾在一边了](https://alipymanbu.github.io/posts/dodo-docs.html)

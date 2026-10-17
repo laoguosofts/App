@@ -123,3 +123,5 @@ Cerulean 内置了几十种小工具，上面只挑了最常用的几个。其�
 ## 📚 相关文章
 
 - [Cerulean 避坑指南：这几个翻车位我替你踩过了](https://laoguosofts.github.io/posts/cerulean-docs.html)
+
+- [一个木函踩坑实录：这几个问题我花了半天才搞定](https://alipymanbu.github.io/posts/cerulean-docs.html)

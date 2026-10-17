@@ -131,3 +131,5 @@ Bilby 不做「猜你喜欢」的原因是它的产品定位——帮助你管�
 ## 📚 相关文章
 
 - [每周追 20 个技术 UP 主，我用 Bilby 搭了一条不被算法打断的追更流水线](https://laoguosofts.github.io/posts/bilby-docs.html)
+
+- [通勤路上的 B 站工作流——从官方客户端切到 Bilby 后我省了多少事](https://alipymanbu.github.io/posts/bilby-docs.html)

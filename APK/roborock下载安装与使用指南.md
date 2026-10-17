@@ -87,3 +87,5 @@ Roborock App 支持 Android 和 iOS 双平台，安装包体积不大（通常�
 ## 📚 相关文章
 
 - [Roborock App 快问快答：机器人扫得干不干净，App 说了算](https://laoguosofts.github.io/posts/roborock.html)
+
+- [Roborock 扫地机 App 快问快答：新用户最该知道的十件事](https://alipymanbu.github.io/posts/roborock.html)

@@ -114,3 +114,5 @@ Z-Lib 是 **Z-Library 的官方安卓客户端**。Z-Library 是一个 2009 年�
 ## 📚 相关文章
 
 - [免费电子书库里它排第几——用了一年 zlib 的真实感受](https://laoguosofts.github.io/posts/zlib-docs.html)
+
+- [Z-Library 对比评测：它在免费电子书库里排第几](https://alipymanbu.github.io/posts/zlib-docs.html)

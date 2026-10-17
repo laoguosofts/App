@@ -120,3 +120,5 @@ Readify 的朗读能力是它的核心竞争力。导入书之后点封面进入
 ## 📚 相关文章
 
 - [用 Readify 一周，把我手机里所有听书 App 都删了](https://laoguosofts.github.io/posts/readify-docs.html)
+
+- [地铁通勤救星：Readify 听书 APP 上手一周真实体验](https://alipymanbu.github.io/posts/readify-docs.html)

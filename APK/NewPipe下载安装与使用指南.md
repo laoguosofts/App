@@ -128,3 +128,5 @@ NewPipe 存储在设备上的数据包括订阅频道列表、Feed 分组配置�
 ## 📚 相关文章
 
 - [NewPipe 深度盘点：一个不想当"YouTube替代品"的流媒体全能选手](https://laoguosofts.github.io/posts/newpipe-docs.html)
+
+- [NewPipe 全能力盘点：从下载到直播，一个开源客户端能做多少事](https://alipymanbu.github.io/posts/newpipe-docs.html)

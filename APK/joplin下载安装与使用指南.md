@@ -144,3 +144,5 @@ Joplin 的全文搜索本身够用，但真正能把搜索从「翻找」升级�
 ## 📚 相关文章
 
 - [用了 Joplin 一周：终于敢把所有笔记托付给一个软件了](https://laoguosofts.github.io/posts/joplin-docs.html)
+
+- [折腾了一周 Joplin 后，我把笔记全搬过来了](https://alipymanbu.github.io/posts/joplin-docs.html)

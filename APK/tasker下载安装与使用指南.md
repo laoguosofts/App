@@ -203,3 +203,5 @@ Tasker 自带几个实用的诊断功能，出问题时先查它们：
 ## 📚 相关文章
 
 - [Tasker 上手记：用了三天，我把手机里一半的重复操作都删了](https://laoguosofts.github.io/posts/tasker-docs.html)
+
+- [Tasker 上手一周，我把手机交给了一个会自己思考的助手](https://alipymanbu.github.io/posts/tasker-docs.html)

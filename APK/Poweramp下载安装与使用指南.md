@@ -108,3 +108,5 @@ Poweramp 按照「文件内嵌 → 同目录文件 → 网络下载」的优先�
 ## 📚 相关文章
 
 - [Poweramp 用了两年：从 DSD 播放器到每天离不开的音乐管家](https://laoguosofts.github.io/posts/poweramp.html)
+
+- [Poweramp 用了两年，从"音质神器"到我通勤路上的默认播放器](https://alipymanbu.github.io/posts/poweramp.html)

@@ -109,3 +109,5 @@ data 目录是整套系统的全部家当——核心配置、数据库、对话
 ## 📚 相关文章
 
 - [从零到一：用 AstrBot 在 QQ 群里挂一个自己的 AI 助手](https://laoguosofts.github.io/posts/astrbot-zh-docs.html)
+
+- [从零跑通 AstrBot：不会写代码也能搭一个自己的 AI 机器人](https://alipymanbu.github.io/posts/astrbot-zh-docs.html)

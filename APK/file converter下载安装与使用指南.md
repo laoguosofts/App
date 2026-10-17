@@ -212,3 +212,5 @@ File Converter 的输入方式远不止「选本地文件」这一种。点「+�
 ## 📚 相关文章
 
 - [用了这么久 File Converter，这五个隐藏功能我猜你没碰过](https://laoguosofts.github.io/posts/file-converter-docs.html)
+
+- [用了 file converter 这么久，才发现它藏着这五个冷门玩法](https://alipymanbu.github.io/posts/file-converter-docs.html)

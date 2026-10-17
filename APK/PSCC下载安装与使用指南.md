@@ -132,3 +132,5 @@ macOS 用户有类似的 Mission Control 可以用，把窗口拖到屏幕边缘
 ## 📚 相关文章
 
 - [PSCC 从零开始：五分钟上手，修图不求人](https://laoguosofts.github.io/posts/pscc.html)
+
+- [第一次打开 PSCC：新手五分钟能用起来的指南](https://alipymanbu.github.io/posts/pscc.html)

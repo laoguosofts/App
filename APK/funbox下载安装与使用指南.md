@@ -113,3 +113,5 @@ FunBox 不是普通 App，装完之后还需要在 LSPosed（或 EdXposed）管�
 ## 📚 相关文章
 
 - [FunBox 全能力盘点：一个模块能把聊天表情和语音玩出多少花样](https://laoguosofts.github.io/posts/funbox-docs.html)
+
+- [FunBox 深度盘点：一个 LSPosed 模块能把聊天面板玩出什么花样](https://alipymanbu.github.io/posts/funbox-docs.html)

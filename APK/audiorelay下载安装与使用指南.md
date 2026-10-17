@@ -122,3 +122,5 @@ iOS 版的核心限制是**做不了全系统音频捕获**——不是 AudioRel
 ## 📚 相关文章
 
 - [AudioRelay 这三年：从一根 USB 线到系统音频抓取](https://laoguosofts.github.io/posts/audiorelay.html)
+
+- [AudioRelay 这几年是怎么把 PC 和手机拧成一根音频线的](https://alipymanbu.github.io/posts/audiorelay.html)

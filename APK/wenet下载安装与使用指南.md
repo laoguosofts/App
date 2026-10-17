@@ -145,3 +145,5 @@ WiFi 在高峰期容易拥挤、带宽也有限，下载大文件、看 4K 视�
 ## 📚 相关文章
 
 - [WeNet 这几年从"能连就行"到"把宿舍网折腾明白"的迭代之路](https://laoguosofts.github.io/posts/wenet-docs.html)
+
+- [WeNet 这一路：从宿舍网口到全平台认证，它是怎么把校园网变简单的](https://alipymanbu.github.io/posts/wenet-docs.html)

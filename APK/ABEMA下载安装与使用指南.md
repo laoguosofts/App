@@ -103,3 +103,5 @@ ABEMA 的会员分成三档，差异在内容、广告和便利功能上：
 ## 📚 相关文章
 
 - [ABEMA 速查：PPV、会员、卡顿、解约一把讲清](https://laoguosofts.github.io/posts/abema-docs.html)
+
+- [ABEMA 快问快答：日本流媒体平台入门到不踩坑](https://alipymanbu.github.io/posts/abema-docs.html)

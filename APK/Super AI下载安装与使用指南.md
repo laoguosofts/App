@@ -105,3 +105,5 @@ Super AI 的文档摘要功能可以把长公众号文章、工作群聊记录�
 ## 📚 相关文章
 
 - [用 Super AI 踩过的五个坑，别再犯了](https://laoguosofts.github.io/posts/super-ai-docs.html)
+
+- [Super AI 避坑指南：这些地方我踩过，你就别再交学费了](https://alipymanbu.github.io/posts/super-ai-docs.html)

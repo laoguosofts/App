@@ -159,3 +159,5 @@ Blurrr 2.0 引入的矢量钢笔工具让它不只是个视频剪辑器，还能
 ## 📚 相关文章
 
 - [Blurrr 本地 AI 与参数化特效管线——手机端凭什么跑出桌面级剪辑](https://laoguosofts.github.io/posts/blurrr-docs.html)
+
+- [Blurrr 为什么在移动端能做桌面级特效——全参数关键帧背后的设计取舍](https://alipymanbu.github.io/posts/blurrr-docs.html)

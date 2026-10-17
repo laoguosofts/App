@@ -185,3 +185,5 @@ SwiftKey 设置按功能分组，主要有以下几个板块：
 ## 📚 相关文章
 
 - [地铁上抄的数据，工位上直接 Ctrl+V 就完事儿](https://laoguosofts.github.io/posts/swiftkey.html)
+
+- [东京成田机场凌晨三点，我换掉了用了五年的输入法](https://alipymanbu.github.io/posts/swiftkey.html)

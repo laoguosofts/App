@@ -84,3 +84,5 @@ LibChecker 有几项可选权限：**Shizuku 授权**可以获得更准确的 DE
 ## 📚 相关文章
 
 - [用 LibChecker 三分钟摸清手机里每个 App 的底细](https://laoguosofts.github.io/posts/libchecker.html)
+
+- [用 LibChecker 摸清你手机里每款 App 的底细——从装到用完整走一遍](https://alipymanbu.github.io/posts/libchecker.html)

@@ -108,3 +108,5 @@ Sora 发布时采用 Opt-out 版权政策——默认允许任何人、任何品
 ## 📚 相关文章
 
 - [Sora 2 存档值不值得花半小时折腾？一笔给好奇者的时间账](https://laoguosofts.github.io/posts/sora2-docs.html)
+
+- [Sora 2 当年值不值得掏钱？——一笔关于 AI 视频订阅的账本](https://alipymanbu.github.io/posts/sora2-docs.html)

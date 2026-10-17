@@ -176,3 +176,5 @@ Infinite Painter 对主动式电容手写笔做了深度适配：
 ## 📚 相关文章
 
 - [用 Painter 搭一套移动端到桌面的插画流水线](https://laoguosofts.github.io/posts/painter-docs.html)
+
+- [插画师的 Painter 工作流：从线稿到交付只用一个 App](https://alipymanbu.github.io/posts/painter-docs.html)

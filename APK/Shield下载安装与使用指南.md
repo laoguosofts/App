@@ -145,3 +145,5 @@ Shield 的市场里有第三方上传的 APK 文件，和工具自身的安装�
 ## 📚 相关文章
 
 - [我是怎么用一套手机端工具从需求到 APK 全走完小工具开发的](https://laoguosofts.github.io/posts/shield-docs.html)
+
+- [用 Shield 搭一套安卓轻量开发流水线，从想法到打包不碰电脑](https://alipymanbu.github.io/posts/shield-docs.html)

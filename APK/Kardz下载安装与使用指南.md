@@ -168,3 +168,5 @@ Kardz 通常支持多种支付渠道，主流的有 PayPal、Visa/Mastercard 信
 ## 📚 相关文章
 
 - [我用过三款游戏充值平台，最后留在手机里的是 Kardz](https://laoguosofts.github.io/posts/kardz.html)
+
+- [海外游戏点卡哪家强？Kardz 放在同类里到底排第几](https://alipymanbu.github.io/posts/kardz.html)

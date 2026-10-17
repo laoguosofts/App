@@ -118,3 +118,5 @@ Studio 是 MissAI 的创作者工作台，核心功能是配置 AI 角色的「�
 ## 📚 相关文章
 
 - [AI 角色对话横评：MissAI 凭什么在同类里站稳](https://laoguosofts.github.io/posts/missai.html)
+
+- [写了三个月互动小说后，我为什么留在 MissAI](https://alipymanbu.github.io/posts/missai.html)

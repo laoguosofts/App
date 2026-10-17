@@ -98,3 +98,5 @@ aniwave 是一款面向安卓设备的动漫影音播放应用，内容库以番
 ## 📚 相关文章
 
 - [aniwave 到底是个什么来头？一篇快问快答讲清楚](https://laoguosofts.github.io/posts/aniwave-docs.html)
+
+- [aniwave 到底是个什么东西？一篇给新手的快问快答](https://alipymanbu.github.io/posts/aniwave-docs.html)

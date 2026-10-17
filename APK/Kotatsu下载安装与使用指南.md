@@ -69,3 +69,5 @@ Kotatsu 支持调用 Android 系统的生物识别 API，用指纹或脸部快�
 ## 📚 相关文章
 
 - [Kotatsu 版本进化史：从 MangaDex 到 Material You 的迭代之旅](https://laoguosofts.github.io/posts/kotatsu-docs.html)
+
+- [Kotatsu 停服之后，一个开源漫画阅读器的七年迭代在想什么](https://alipymanbu.github.io/posts/kotatsu-docs.html)

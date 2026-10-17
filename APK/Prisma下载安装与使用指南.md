@@ -193,3 +193,5 @@ CMD ["sh", "-c", "npx prisma migrate deploy && npm start"]
 ## 📚 相关文章
 
 - [用 Prisma 两周，我终于把写 SQL 的坏毛病戒掉了](https://laoguosofts.github.io/posts/prisma-zh-docs.html)
+
+- [用了 Prisma 一周，我终于把手写 SQL 迁移的老毛病治好了](https://alipymanbu.github.io/posts/prisma-zh-docs.html)

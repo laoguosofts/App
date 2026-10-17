@@ -141,3 +141,5 @@ PDFelement 的功能矩阵非常完整，日常使用中最高频的几个能力
 ## 📚 相关文章
 
 - [每周三份行业简报，我用 PDFelement 把四步压缩成一条链](https://laoguosofts.github.io/posts/pdfelement.html)
+
+- [采购合同从收件到归档的一条链——我用 PDFelement 嵌进工作流的实战](https://alipymanbu.github.io/posts/pdfelement.html)

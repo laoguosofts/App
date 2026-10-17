@@ -111,3 +111,5 @@ ExAPI 是 Live2DViewerEX 提供的 WebSocket API，让任何本机运行的软�
 ## 📚 相关文章
 
 - [Live2DViewerEX 原理解析：从模型渲染到跨平台壁纸的设计取舍](https://laoguosofts.github.io/posts/live2dviewerex.html)
+
+- [Live2DViewerEX 架构拆解：为什么同一个软件换个模式，性能能差十倍](https://alipymanbu.github.io/posts/live2dviewerex.html)

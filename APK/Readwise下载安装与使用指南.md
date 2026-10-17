@@ -190,3 +190,5 @@ Readwise 内置 AI 助手，有两个层级：
 ## 📚 相关文章
 
 - [Readwise 深度用了一年：它凭什么在高亮管理这个冷门赛道里扎稳了根](https://laoguosofts.github.io/posts/readwise-docs.html)
+
+- [试过十几款阅读复习工具后，我为什么把 Readwise 留在了主力位](https://alipymanbu.github.io/posts/readwise-docs.html)

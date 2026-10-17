@@ -148,3 +148,5 @@ App 显示"已连接"不一定代表双向通信正常，以下三种方法可�
 ## 📚 相关文章
 
 - [HryFine 拆解：为什么这块百元智能手表能把功能塞得这么满](https://laoguosofts.github.io/posts/hryfine.html)
+
+- [从 HryFine 看百元智能手表的设计哲学——为什么它能撑住 7 天续航](https://alipymanbu.github.io/posts/hryfine.html)

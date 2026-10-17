@@ -128,3 +128,5 @@ Web 资源遇到问题时可以对照下表排查：
 ## 📚 相关文章
 
 - [深信服 EasyConnect 付费账本：老 SSL VPN 还续吗？](https://laoguosofts.github.io/posts/easyconnect-docs.html)
+
+- [EasyConnect 到底值不值得掏钱？一个精打细算用户的真实算账](https://alipymanbu.github.io/posts/easyconnect-docs.html)

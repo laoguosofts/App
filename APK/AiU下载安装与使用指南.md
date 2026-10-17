@@ -100,3 +100,5 @@ AiU 的四大板块不是并列的菜单项，而是同一段「人机关系」�
 ## 📚 相关文章
 
 - [AiU 到底值不值得用？从心理大模型底座聊到捏人系统的实体验](https://laoguosofts.github.io/posts/aiu-docs.html)
+
+- [AiU 对比评测：在 AI 伴侣类应用的拥挤赛道里，它靠什么站住脚](https://alipymanbu.github.io/posts/aiu-docs.html)

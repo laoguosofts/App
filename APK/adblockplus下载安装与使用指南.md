@@ -154,3 +154,5 @@ ABP 默认启用"智能白名单"机制，让白名单变成一种"租约"而非
 ## 📚 相关文章
 
 - [手机上装 Adblock Plus，三分钟从下载到能用](https://laoguosofts.github.io/posts/adblockplus-docs.html)
+
+- [Adblock Plus 完全上手：从弹窗到规则排查的实战教程](https://alipymanbu.github.io/posts/adblockplus-docs.html)

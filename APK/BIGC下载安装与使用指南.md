@@ -111,3 +111,5 @@ BIGC 的功能模块较多，但新用户上手时不需要一次性全部掌握
 ## 📚 相关文章
 
 - [BIGC 从 0 到 1：打歌投票、独家花絮、演出购票一次搞懂](https://laoguosofts.github.io/posts/bigc-docs.html)
+
+- [从下载到看第一场打歌直播：BIGC 上手完整实操手册](https://alipymanbu.github.io/posts/bigc-docs.html)

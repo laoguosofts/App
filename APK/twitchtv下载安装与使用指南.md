@@ -152,3 +152,5 @@ Prime Gaming 是 Amazon Prime 订阅服务的一部分——只要是 Amazon Pri
 ## 📚 相关文章
 
 - [Twitch 掉宝教程：从零开始挂机领游戏奖励](https://laoguosofts.github.io/posts/twitchtv.html)
+
+- [从零上手 Twitch：注册、开播、搜频道一把梭](https://alipymanbu.github.io/posts/twitchtv.html)

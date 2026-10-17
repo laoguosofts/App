@@ -111,3 +111,5 @@ We Learn 支持移动端 APP 和电脑网页端两种使用方式，安装路径
 ## 📚 相关文章
 
 - [WE Learn 随行课堂快问快答：从激活到录音，八件事说清](https://laoguosofts.github.io/posts/we-learn.html)
+
+- [WE Learn 快问快答：随行课堂到底值不值得装？](https://alipymanbu.github.io/posts/we-learn.html)

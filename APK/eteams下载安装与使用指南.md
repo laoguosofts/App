@@ -112,3 +112,5 @@ eteams 的移动出勤功能是远程和混合办公团队的核心依赖。地�
 ## 📚 相关文章
 
 - [eteams 深度解析：一家传统 OA 厂商如何把协作平台拆成 200 个微服务](https://laoguosofts.github.io/posts/eteams-docs.html)
+
+- [eteams 深度拆解：为什么它把"关联"做到了骨子里](https://alipymanbu.github.io/posts/eteams-docs.html)

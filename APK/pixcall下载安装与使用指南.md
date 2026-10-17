@@ -155,3 +155,5 @@ Pixcall 原生支持（无需额外插件）以下图片格式的预览和缩略
 ## 📚 相关文章
 
 - [pixcall 用了大半年，说点时间才能看出来的事](https://laoguosofts.github.io/posts/pixcall.html)
+
+- [Pixcall 用了半年——从 Eagle 替代到主力素材库，聊聊这半年的真实感受](https://alipymanbu.github.io/posts/pixcall.html)

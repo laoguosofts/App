@@ -126,3 +126,5 @@ Exping 是由爱讯集团（iFREE Group）开发的地图标记与位置收藏�
 ## 📚 相关文章
 
 - [用了 exping 三年才发现，它藏着好几个官方不说的功能](https://laoguosofts.github.io/posts/exping.html)
+
+- [Exping 隐藏功能深挖：你以为它只是个地图收藏夹？](https://alipymanbu.github.io/posts/exping.html)

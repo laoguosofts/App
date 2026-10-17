@@ -117,3 +117,5 @@ MangadeX 是一款开源的漫画聚合阅读应用，核心价值在于把分�
 ## 📚 相关文章
 
 - [为什么 MangadeX 能让一个书架跨遍所有漫画源？拆解它的多源聚合设计](https://laoguosofts.github.io/posts/mangadex-docs.html)
+
+- [MangadeX 的扩展架构：一个阅读器如何同时服务几十个漫画源](https://alipymanbu.github.io/posts/mangadex-docs.html)

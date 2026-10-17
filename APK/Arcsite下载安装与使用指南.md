@@ -146,3 +146,5 @@ ArcSite 支持方案模板——你可以把自己常用的方案结构存成模
 ## 📚 相关文章
 
 - [Arcsite 上手三天：在客户现场就能把活干完的建筑测量工具](https://laoguosofts.github.io/posts/arcsite-docs.html)
+
+- [ArcSite 上手几天：终于有人把工地画图和算料这件事做顺了](https://alipymanbu.github.io/posts/arcsite-docs.html)

@@ -92,3 +92,5 @@ Iwara 社区的内容标题和标签大量使用日文或英文原名，直接�
 ## 📚 相关文章
 
 - [Iwara 客户端对比同类社区：小众圈子也值得专门装一个](https://laoguosofts.github.io/posts/iwara-docs.html)
+
+- [Iwara 播放器对比评测：同类客户端里它靠什么站稳脚跟](https://alipymanbu.github.io/posts/iwara-docs.html)

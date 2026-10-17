@@ -113,3 +113,5 @@ Zedge 不强制注册，游客也能浏览内容、下载壁纸和铃声，甚�
 ## 📚 相关文章
 
 - [用 Zedge 串起每周产品分享的一条龙工作流](https://laoguosofts.github.io/posts/zedge-docs.html)
+
+- [用 Zedge 打通双端铃声壁纸——每周 10 分钟换一套，旧流程踩过的坑都绕开了](https://alipymanbu.github.io/posts/zedge-docs.html)

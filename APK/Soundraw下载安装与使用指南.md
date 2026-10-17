@@ -131,3 +131,5 @@ SOUNDRAW Grid 移动端有两个 Web 端没有的特色玩法：
 ## 📚 相关文章
 
 - [为什么 Soundraw 敢说自己是唯一版权安全的 AI 音乐工具](https://laoguosofts.github.io/posts/soundraw-docs.html)
+
+- [Soundraw 的 Bar 级编辑原理：AI 音乐为什么要拆成轨道和段落？](https://alipymanbu.github.io/posts/soundraw-docs.html)

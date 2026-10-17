@@ -139,3 +139,5 @@ KYC（Know Your Customer，了解你的客户）是金融合规的标准流程�
 ## 📚 相关文章
 
 - [CSFloat 陪了我这大半年：从蹲货新手到佛系卖家的真实感受](https://laoguosofts.github.io/posts/csfloat.html)
+
+- [装了一年CSFloat，从蹲货党变全职卖家的那些变化](https://alipymanbu.github.io/posts/csfloat.html)

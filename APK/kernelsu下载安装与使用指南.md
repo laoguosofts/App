@@ -134,3 +134,5 @@ LKM 模式下，日常升级 KernelSU 版本就是在管理器里点直接安装
 ## 📚 相关文章
 
 - [KernelSU 新手入门：什么是内核级 Root，五分钟装上去先玩起来](https://laoguosofts.github.io/posts/kernelsu-docs.html)
+
+- [KernelSU 到底是什么？从零开始给手机开 root 的友好路线](https://alipymanbu.github.io/posts/kernelsu-docs.html)

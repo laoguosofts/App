@@ -145,3 +145,5 @@ FPS 游戏里瞄准是最考验映射精度的部分。K2er 的鼠标控制核�
 ## 📚 相关文章
 
 - [手柄玩家转战安卓的第一选择？我用了仨月 k2er 才说这话](https://laoguosofts.github.io/posts/k2er.html)
+
+- [手机外设映射赛道横评：为什么 k2er 值得单独聊](https://alipymanbu.github.io/posts/k2er.html)

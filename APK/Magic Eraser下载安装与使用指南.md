@@ -135,3 +135,5 @@ Magic Eraser 的操作逻辑一句话就能说清：选照片 → 涂区域 → 
 ## 📚 相关文章
 
 - [网页版 AI 消除工具横评，Magic Eraser 为什么值得单独拎出来](https://laoguosofts.github.io/posts/magic-eraser-docs.html)
+
+- [对比评测：AI 消除工具里，Magic Eraser 凭什么让我从同类里留它到最后？](https://alipymanbu.github.io/posts/magic-eraser-docs.html)

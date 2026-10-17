@@ -119,3 +119,5 @@ PS3 游戏在模拟器里有三种常见形态，导入方式完全不同，先�
 ## 📚 相关文章
 
 - [RPCS3 避坑指南：五个我踩过才记住的模拟器暗礁](https://laoguosofts.github.io/posts/rpcs3.html)
+
+- [RPCS3 入坑前必看的四个翻车现场](https://alipymanbu.github.io/posts/rpcs3.html)

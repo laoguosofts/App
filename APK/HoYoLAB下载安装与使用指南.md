@@ -111,3 +111,5 @@ HoYoLAB 不是单一游戏社区，而是全产品线的集合入口。每款游
 ## 📚 相关文章
 
 - [HoYoLAB 六年迭代：从游戏公告板到玩家社区的缓慢转身](https://laoguosofts.github.io/posts/hoyolab.html)
+
+- [HoYoLAB 版本进化史：从签到工具到角色陪伴，他们用了三年](https://alipymanbu.github.io/posts/hoyolab.html)

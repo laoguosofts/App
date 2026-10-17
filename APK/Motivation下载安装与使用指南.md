@@ -78,3 +78,5 @@ Premium 解锁的方向集中在**更多内容**和**更强外观**：移除广�
 ## 📚 相关文章
 
 - [Motivation 快问快答：一款能在手表上推语录的 App](https://laoguosofts.github.io/posts/motivation-docs.html)
+
+- [Motivation 深度盘点：一款把正能量拆成三条路径递到你眼前的语录 App](https://alipymanbu.github.io/posts/motivation-docs.html)

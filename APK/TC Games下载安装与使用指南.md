@@ -119,3 +119,5 @@ HDMI 转接线连接时要注意转接器发热——长时间运行可能过热
 ## 📚 相关文章
 
 - [TC Games 新手入门：把手机搬上电脑，零基础五分钟上手](https://laoguosofts.github.io/posts/tc-games.html)
+
+- [手机游戏上电脑——TC Games 小白五分钟从安装到开玩](https://alipymanbu.github.io/posts/tc-games.html)
